@@ -77,7 +77,7 @@ D+4, 4, 4, 4, 3;l, l, l, m, (HMS);7,8,5,21;12;-11~-10;KND;KND;
 D+4, 4, 4, 4, 3, d/b (Cancel);l, l, l, m, (HMS);7,8,5,21;12s;-8;KND;KND;
 d+3+4;h! (TJ);60;60a cs25~44 js45~;KND;KND;KND;
 d+3+4, 3+4 (Cancel);(HMS);;s;;;;
-d/b+3;l;13;20~21;-12~-11;+2~+3;+2~+3;
+d/b+3;l;15;20~21;-12~-11;+2~+3;+2~+3;
 d/b+1+2;!, !;20,30;76,90;CS;CS;CS;
 d/b+3+4;l?;17;23~25;-13~-11;+4~+6;KND;
 b+1;h;8;15;0;+6;+6;
@@ -101,7 +101,7 @@ b+4;m;22;20~22;-3~-1;+7~+9s (KND);KND;
 b+4, 3;m, (HMS);22;20~22;-2~0;+8~+10s (KND);KND;
 b+1+2;Absorbs 1 h/m hit;;20~22;;+7b;;
 b+1+2(when done) 4(When parry successful);(Special), m;30;20;;KND;Tail spin;
-b+3+4;m;25;20 pc8~19;-15;KND;KND;Power crush
+b+3+4;m;25;20 pc8~19;-15;KND;KND;Power crush, Wall bounce
 u/b, b;(Special) (TJ), (HMS);;20 8~19;;;;
 u/b+3;m;20;18~22 js17~;-13~-9;KND;Launch;
 u+3;(Special) (TJ);;a;;;;

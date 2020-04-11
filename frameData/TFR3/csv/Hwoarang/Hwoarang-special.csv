@@ -26,7 +26,7 @@ in rage LFS u/f+3, 4, 3+4;m (TJ), m, hh;14,13,17,27;js1~;+4;KND;KND;Rage drive
 3, 3, d/f or f+4;h, m, h;15,12,23;14;-1;KND;KND;
 3~4;mm (TJ);11,21;22;-3;KND;KND;
 4;h;14;11;-6;+5;+5;
-4, 3;h, m(LFF);14,12;11;-6;+5;+5;
+4, 3;h, m(LFF);14,14;11;-6;+5;+5;
 4, 3, f (Cancel);h, (LFS);14;11;-6;+5;+5;
 4, 4;h, h, (RFS);14,13;11;-1;+10g;+10;
 4, f+4;h, h(RFF);14,13;11;-5;+6;+6;
@@ -87,12 +87,12 @@ f, F+3;m(RFF);24;22;6;6s;6s;
 f, F+4;m(RFF);22;17;-7;KND;KND;
 f, n, d, d/f+3;m, (LFS);27;18;+4;KND;CS;Wall bounce
 f, n, d, d/f+4;m;18;16;-18;Launch(JG?);Launch(JG?);53
-f, n, d/f+4;m;18;16;-10;Launch(JG?);Launch(JG?);47
+f, n, d/f+4;m;18;16;-8;Launch(JG?);Launch(JG?);47
 f, f, f+3;m (TJ);30;22;6;KND;KND;
 f, f, f+4;h;28;18;+5;8b;8b;
 WS+3;m;20;14;-7;KND;KND;
 WS+4;m;12;11;-3;8;8;
-WS+4, 4;m, m(RFF);12,13;11;-5;4s;4s;
+WS+4, 4;m, m(RFF);12,16;11;-5;4s;4s;
 WS+3+4;m(RFF);16;20~21b;-9~-8;+2~+3;+2~+3;
 WS+3+4, 3;m, m;16,20;20;-5;6s (KND);KND;
 SS+3;m;15;18;-12;-1;FS (+5~+6);
@@ -127,7 +127,7 @@ RFF f+4;(Special);;35~;;;;
 RFF f+4~4;m;20;18;-13;Launch (JG?);Launch (JG?);
 RFF f+3;h, (LFS);21;14;12;23;23;
 RFF f+3, B;h(RFF);21;14;-11;0;0;
-RFF d/f+3;m(LFF);25;20;-11;KND;KND;Homing, Tail spin
+RFF d/f+3;m(LFF);25;20;-9;KND;KND;Homing, Tail spin
 RFF d/f+4;m;12;13;-7;+1;+1;39
 RFF d/f+4, b or f;m, (RFS);12;13;+7;+15g;+15;
 RFF d/f+4, d or u;m, (RFS);12;13;+6;+14g;+14;
@@ -135,7 +135,7 @@ RFF d+4;l;19;19;-11;+5;+15g;
 RFF d/b+3;l (TC);13;17F;-11;-3;+4;
 RFF d/b+3, 3;l, h(LFF);13,28;17 10~;-2;KND;KND;Tail spin
 RFF b+2;m;17;16;2;6s;KND;
-RFF b+3;h(LFF);20;13;-7;2;CS;
+RFF b+3;h(LFF);20;13;-7;4;CS;
 RFF b+4;h (TC)(LFF);27;18;-9;+13kg;+13kg;Tail spin
 RFF f, F+3;m (TJ)(LFF);22;22;-6;KND;KND;
 RFF f, F+4;m(LFF);15;22;-9;-1;-1;
@@ -188,8 +188,8 @@ RFS f+4;hh, (RFS);8,10;8,18;+1;+3;+7;
 RFS f+4, 4;hh, h(RFF);8,10,12;8,18;-6;Launch (JG?);Launch (JG?);
 RFS d/f+4;m(LFF);17;17;1;8s;KND;
 RFS d/b or d or d/f+3;l (TC)(LFF);12;28;-23;KND;KND;
-RFS d+4;l(LFF);11;20;-31;-1 (KND);-1 (KND);
-RFS d+4, 3;l, m(LFF);11,25;20;-14;KND;KND;
+RFS d+4;l(LFF);14;20;-31;-1 (KND);-1 (KND);
+RFS d+4, 3;l, m(LFF);14,25;20;-14;KND;KND;
 RFS b+3;m(LFF);21;16;-10;JG;JG;
 RFS b+4;m (TJ)(LFF);23;20 pc8~19 js15~;-12;+14kg;+14kg;Homing, Tail spin, Power crush
 RFS f or b or u or d;(Special);;20~22 8~19 15~;;;;
