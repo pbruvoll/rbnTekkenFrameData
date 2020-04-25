@@ -1,4 +1,13 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes;
+in rage d/f+3+3;m,Throw;55;20 pc8;-22;Throw;Throw; Rage art;
+in rage 3, 4~3+4;m,l,h;12,10,10;13;-12;KDN;KDN;Rage drive, Tail spin;
+in rage f+3, 2, 4~3+4;m,m,l,h;19,17,10,10;17;-12;KDN;KDN;Rage drive, Tail spin;
+in rage WS+2, 4~3+4;m,h,l,h;14,10,10;16;-12;KDN;KDN;Rage drive, Tail spin;
+in rage 1, 2, 4, 3~3+4;h,h,h,l,h;7,8,17,10,10;10;-12;KDN;KDN;Rage drive, Tail spin;
+in rage 2, 4, 3~3+4;h,h,l,h;8,17,10,10;12;-12;KDN;KDN;Rage drive, Tail spin;
+in rage 4, 3~3+4;h,l,h;15,10,10;12;-12;KDN;KDN;Rage drive, Tail spin;
+in rage d+3, 4, 3~1;l,h,l,h;12,17,10,10;16;-12;KDN;KDN;Rage drive, Tail spin;
+in rage u/f+3+4;m (TJ),Throw;35(,4,11);15 js15;-3;Throw;Throw;Rage drive;
 1;h;7;10;1;8;8;;
 1, 1;h, m;7,20;10;-7;4;KDN;;
 1, 2;h, h; 7,8;10;-2;5;5;;
@@ -124,12 +133,4 @@ BT 1 or 2;h;15;8;-8;3;3;;
 BT 3 or 4;h;18;10;-8;KDN;KDN;;
 BT d+1 or d+2;sm (TC);10;10 cs1;-2;9;9;;
 BT d+3 or d+4;l (TC);12;10 cs1;-11;3;3;;
-in rage d/f+3+3;m,Throw;55;20 pc8;-22;Throw;Throw; Rage art;
-in rage 3, 4~3+4;m,l,h;12,10,10;13;-12;KDN;KDN;Rage drive, Tail spin;
-in rage f+3, 2, 4~3+4;m,m,l,h;19,17,10,10;17;-12;KDN;KDN;Rage drive, Tail spin;
-in rage WS+2, 4~3+4;m,h,l,h;14,10,10;16;-12;KDN;KDN;Rage drive, Tail spin;
-in rage 1, 2, 4, 3~3+4;h,h,h,l,h;7,8,17,10,10;10;-12;KDN;KDN;Rage drive, Tail spin;
-in rage 2, 4, 3~3+4;h,h,l,h;8,17,10,10;12;-12;KDN;KDN;Rage drive, Tail spin;
-in rage 4, 3~3+4;h,l,h;15,10,10;12;-12;KDN;KDN;Rage drive, Tail spin;
-in rage d+3, 4, 3~1;l,h,l,h;12,17,10,10;16;-12;KDN;KDN;Rage drive, Tail spin;
-in rage u/f+3+4;m (TJ),Throw;35(,4,11);15 js15;1;Throw;Throw;Rage drive;
+
