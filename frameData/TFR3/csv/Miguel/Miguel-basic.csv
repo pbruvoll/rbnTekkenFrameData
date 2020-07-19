@@ -5,7 +5,7 @@ Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;
 4;h;14;12;-9;+5;Launch (JG?);
 f+1;h;7;10;+1;+8;+8;
 f+2;h?;17;15;-3;+6;CS;
-f+3;m;13;20~21;-6~-5;+6~+7s;+6~+7s;
+f+3;m;13;20~21;-5~-4;+7~+8s;+7~+8s;
 f+4;m;15;17~18;-7~-6;+6~+7;+6~+7;Homing
 d/f+1;m;12;13;-2;+5;+5;
 d/f+2;m;10;16;-7;+6;+6;
