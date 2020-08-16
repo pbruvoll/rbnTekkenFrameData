@@ -1,0 +1,32 @@
+Command;Hit level;Damage;Start up frame;Break;Break frame;Notes
+1+3;h;35;12;1 or 2;-6;f+1+3 15 frames
+2+4;h;35;12;1 or 2;-6;f+2+4 15 frames
+Left side throw;h;45;12;1;-3;
+Right side trhow;h;40;12;2;-3;
+Opponent BT 1+3;h;60;12;None;;
+Opponent BT 2+4;h;60;12;None;;
+f, F+1+2;h;20;12;1+2;0;
+qcf+1+3;h;30;12;1;-2;
+qcf+1+3, 1+2;h;20;12;;-2;
+qcf+2+4;h;30;12;2;-2;
+qcf+2+4, 1+2;h;20;12;;-2;
+qcb+1+2;h;40;11;1+2;-6;
+f, hcf+1;h;50;11;1;-2;
+VTS 1+2 (close);m;12;34;1+2;-4;
+VTS 1+2;m;12;30;1 or 1+2;-8;
+VTS 1+2 (far);sm;10;50;;;
+VTS 1+2, u or d;(cancel);;;;;
+VTS 1+3;h;35;12;1;-2;
+VTS 2+4;h;35;12;2;-2;
+Mount 1;h;35;18;2;-5;
+Mount 1+3;h;40;17;2;-9;
+Mount 2;h;35;17;1;-5;
+Mount 2+4;h;40;18;1;-9;
+Mount 1+2;h;40;28;1+2;-9;
+Mount 3+4;h;40;28;1+2;-9;
+(opponent grounded) d/b+1+3;;18;;1;;
+(opponent groudned) d/b+2+4;;18;;2;;
+(opponent in air) 1+3;h;29;12;;;
+(opponent in air) 2+4;h;26;12;;;
+(opponent in air) f, F+2;h;60;12;;;
+w! 1+3 or 2+4;h;60;12;;;

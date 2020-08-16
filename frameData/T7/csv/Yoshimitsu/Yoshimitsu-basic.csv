@@ -1,0 +1,118 @@
+Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
+1;h;9;10;+1;+8;+8;
+2;h;13;10;-1;+5;+8;
+3;h;20;12;-9;+5;KND;
+4;h;22;15;-11;0;KND;
+b+1;h;12;17;+1;+7;+12;
+b+2;m;16;14;-9;+2;+2;
+b+3 (SSL);(Special);;14;;;;
+b+4 (SSR);(Special);;14;;;;
+f+1;h;9;10;+1;+8;+8;
+f+2;h;24;17;-4;+k;SCD;Tail spin
+f+3;h;32;16;-10;KND;KND;Homing, Tail spin
+f+4;m;33;18;-9;KND;KND;Wall bounce
+f, F+1;h;9;10(11~);+1;+8;+8;
+f, F+2;m;24;15(16~);-10;+3(Throw);+?(Throw);
+f, F+3;m;33;23(24~);-5;+4;CS 12;
+f, F+4;m (TJ);27;15~16 RBT (16~);-6~-5;Launch;Launch;
+d+1;m;20;24~25;-5~-4;0~+1 OC;KND;
+d+2;m (TC);16;16~17;-9~-8;0~+1;0~+1;
+d+3;l (TC);16;15~16 RC;-18~-17;-4~-3;-4~-3;
+d+4;l (TC);9;12 RC;-13;-2;-2;
+d/b+1;m;21;20;-16;0 OC;0 OC;
+d/b+2;m;10;15s;-5;+6;+6;
+d/b+3;l (TC);13;18~19 RC;-25~-24;-14~-13;-14~-13;
+d/b+4;l;18;17;-12;-1;-1;
+d/b+3+4j;l (TC);16;16 RC;-17;-3;-3;
+FC+1;Sm (TC);6;10s;-5;+6;+6;
+FC+2;Sm (TC);10;11s;-4;+7;+7;
+FC+d/b+3;l (TC);13;18~19s;-25~-24;-14~-13;-14~-13;
+FC+d or d/f+3;l (TC);16;16s;-17;-3;-3;
+FC+d/b or d+4;l (TC);13;12s;-15;-4;-4;
+WS+1;m;20;14~15;-10~-9;+1~+2;+6~+7;
+WS+2;m;21;15 RBT;-4;+7;+7;
+WS+1+2;m;16;10~11;-4~-3;+7~+8;+7~+8;
+WS+3 or 3+4;m;16;16;-6;+3;+3;
+WS+4;m;18;11~12;-6~-5;+5~+6;+5~+6;
+d/f+1;m;18;13;-4;+5;+5;
+d/f+2;m;17;15~16;-7~-6;Launch (JG?)(+4a);Launch (JG?);
+d/f+3;m;13;17~18 RC;-4~-3;+4~+5;+4~+5;
+d/f+4;m;20;12;-9;+4;+4;
+u/b or u+1;m (TJ);16;18;-8;+3;+3;
+u/f+1;m (TJ);;18;-5,6?;+s;KND;
+u/b or u+2;h;22;15;-12;+9 GB;+9 GB;
+u/f+2;l (TJ);25?;35s;-16;+8?;KND;
+u/b or u+3;m (TJ);33;23;-29;KND;KND;
+u/f+3;m (TJ);20;15;-13;Launch (JG?);Launch (JG?);
+u/b+4;m (TJ);22;20;-19;KND;KND;
+u or u/f+4;m (TJ);28;20;-9;KND;KND;Homing
+SS+1;m;28;17(26~);-9;+2;Launch (JG?);
+SS+2;m;27;18(27~);-13;Launch;Launch;
+SS+3;h;20;12(13~);-9;+5;KND;
+SS+4;h;28;16(25~);0;KND;CS;Homing, Tail spin
+BT 1;h;21;15 RBT;-6;+5;+5;
+BT 2;h;24;16;-4;+k;SCD;Tail spin
+BT 3;m (TJ);27;24~25 RBT;-3~-2;KND;KND;
+BT 1+2;h;20;8;-8;+3;+3;
+BT 4;h;33;10;-8;KND;KND;
+BT d/b+2;m;10;15SB;-5;+6;+6;
+BT d or d/f+2;Sm;13;8 RC;-2;+9;+9;
+BT d+4 or d+3;l;16;10 RC;-8;+3;+3;
+NSS 1;h;9;10;+1;+8;+8;
+NSS 2;h;13;10;-1;+5;+8;
+NSS 3;h;20;12;-9;+5;KND;
+NSS 4;h;22;15;-11;0;KND;
+NSS b+1;h;12;17;+1;+7;+12;
+NSS b+2;m;16;15;-9;+2;+2;
+NSS b+3 (SSL);(Special);;15;;;;
+NSS b+4 (SSR);(Special);;15;;;;
+NSS f+1;h;9;10;+1;+8;+8;
+NSS f+2;h;24;17;-4;+k;SCD;Tail spin
+NSS f+3;h;32;16;-10;KND;KND;Homing, Tail spin
+NSS f+4;m;33;18;-9;KND;KND;
+NSS f, F+1;h;9;10(11~);+1;+8;+8;
+NSS f, F+2;m;24;15(16~);-10;+3(Throw);+?(Throw);
+NSS f, F+3;m;33;23(24~);-5;+4;CS 12;
+NSS f, F+4;m (TJ);27;15~16 RBT (16~);-6~-5;Launch;Launch;
+NSS d+1;m;20;24~25;-7~-6 OC;0~+1 OC;KND;
+NSS d+2;m (TC);16;16~17;-9~-8;0~+1;0~+1;
+NSS d+3;l (TC);16;15~16 RC;-18~-17;-4~-3;-4~-3;
+NSS d+4;l (TC);9;12 RC;-13;-2;-2;
+NSS d/b+1;Sm (TC);6;11 RC;-5;+6;+6;
+NSS d/b+2;m;10;15 RC;-5;+6;+6;
+NSS d/b+3;l (TC);13;18~19 RC;-25~-24;-14~-13;-14~-13;
+NSS d/b+4;l;18;17;-12;-1;-1;
+NSS d/b+3+4j;l (TC);16;16 RC;-17;-3;-3;
+NSS FC+1;Sm (TC);6;10 RC;-5;+6;+6;
+NSS FC+2;Sm (TC);10;11 RC;-4;+7;+7;
+NSS FC+d/b+3;l (TC);13;18~19 RC;-25~-24;-14~-13;-14~-13;
+NSS FC+d+3;l (TC);16;16 RC;-17;-3;-3;
+NSS FC+d/b or d+4;l (TC);13;12 RC;-15;-4;-4;
+NSS WS+1;m;20;14~15;-10~-9;+1~+2;+6~+7;
+NSS WS+2;m;21;15 RBT;-4;+7;+7;
+NSS WS+1+2;m;16;10~11;-4~-3;+7~+8;+7~+8;
+NSS WS+3 or 3+4;m;16;16;-6;+3;+3;
+NSS WS+4;m;18;11~12;-6~-5;+5~+6;+5~+6;
+NSS d/f+1;m;18;13;-4;+5;+5;
+NSS d/f+2;m;17;15~16;-7~-6;Launch (JG?)(+4);Launch (JG?);
+NSS d/f+3;m;13;17~18s;-4~-3;+4~+5;+4~+5;
+NSS d/f+4;m;20;12;-9;+4;+4;
+NSS u/b or u or u/f+1;m (TJ);16;18;-8;+3;+3;
+NSS u/b or u+2;h;28;15;-12;+9 GB;+9 GB;
+NSS u/f+2;l (TJ);25;35 RC;-18;+4;KND;
+NSS u/b or u+3;m (TJ);33;23;-29;KND;KND;
+NSS u/f+3;m (TJ);20;15;-13;Launch (JG?);Launch (JG?);
+NSS u/b+4;m (TJ);22;20;-19;KND;KND;
+NSS u or u/f+4;m (TJ);28;20;-9;KND;KND;Homing
+NSS SS+1;m;28;17(26~);-9;+2;Launch (JG?);
+NSS SS+2;m;27;18(27~);-13;Launch;Launch;
+NSS SS+3;h;20;12(13~);-9;+5;KND;
+NSS SS+4;h;28;16(25~);0;KND;CS;Homing, Tail spin
+NSS BT 1;h;21;15 RBT;-6;+5;+5;
+NSS BT 2;h;24;16;-4;+k;SCD;Tail spin
+NSS BT 3;m (TJ);27;24~25 RBT;-3~-2;KND;KND;
+NSS BT 1+2;h;20;8;-8;+3;+3;
+NSS BT 4;h;33;10;-8;KND;KND;
+NSS BT d/b+2;m;10;15SB;-5;+6;+6;
+NSS BT d or d/f+2;Sm;13;10 RC;-2;+9;+9;
+NSS BT d+4 or d+3;l;16;10 RC;-8;+3;+3;

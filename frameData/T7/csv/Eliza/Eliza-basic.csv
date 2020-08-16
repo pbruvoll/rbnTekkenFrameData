@@ -1,0 +1,41 @@
+Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
+1;h;7;10;+1;+8;+8;
+2;h;9;14;-3;+8;+8;
+3;h;12;13;-8;+8;+8;
+4;h;21;13;-5;KND;KND;Homing, Tail spin
+f+1;h;7;10;+1;+8;+8;
+f+2;h;9;14;-3;+8;+8;
+f+3;m;17;16~17;-9~-8;0~+1;+25g(KND);
+f+4 (to MG);(MG);;18~19;;;;Press down to recover crouching
+d/f+1;m;12;13;-3;+3;+3;
+d/f+2;m;10;16~17;-9~-8;+2~+3;+2~+3;
+d/f+3;m (TJ);24;25~26 js9~;-6~-5;KND;KND;Homing, Wall bounce
+d/f+4;m;16;12;-8;+3;+3;
+d/b or d+1;Sm (TC);5;10s cs4~;-5;+6;+6;+3 on hit from side or behind
+d/b or d+2;Sm (TC);8;12s cs4~;-7;+4;+4;
+d/b or d+3 (Close);l (TC);10;15s cs4~;-16;-5;-5;
+d/b or d+3;l (TC);7;15s cs4~;-16;-5;-5;
+d/b or d+4;l (TC);17;20~21s cs6~;-27;+5~+6s;KND;
+b+1;m;13;14;-8;+3;+3;
+b+2;h;10;11;-4;+2;+2;
+b+3;h;12;16;-9;+2;+2;
+b+4;Sm;12;15;-14;-2;-2;
+u/b or U/F;(Special);;js5~;;;;
+U;(Special);;js9~;;;;
+WS+1;m;10;14;-7;+4;+4;
+WS+2;m;18;15~16a;-9~-8;KND;JG;
+WS+3;m (TJ);20;15~16a js15~;-22~-21;Launch (JG?);Launch (JG?);
+WS+4;m;15;11~12;-5~-4;+6~+7;+6~+7;
+FC+1;Sm (TC);5;10s cs1~;-5;+6;+6;
+FC+2;Sm (TC);8;12s cs1~;-7;+4;+4;
+FC+3 (Close);l (TC);10;15s cs1~;-16;-5;-5;
+FC+3;l (TC);7;15s cs1~;-16;-5;-5;
+FC+4;l (TC);20;20~21s cs1~;-27;+3~+4s;KND;
+SS+1;h;7;10(11~);+1;+8;+8;
+SS+2;h;9;14(15~);-3;+8;+8;
+SS+3;h;12;13(14~);-8;+8;+8;
+SS+4;h;21;13(14~);-5;KND;KND;Homing, Tail spin
+BT 1 or 2;h;7;10;+1;+8;+8;
+BT 3 or 4;h;21;13;-5;KND;KND;Homing, Tail spin
+BT d+1 or d+2;Sm;5;10s cs1~;-5;+6;+6;+3 on hit from side or behind
+BT d+3 or d+4;l (TC);20;20~21s cs1~;-27;+3~+4s;KND;
