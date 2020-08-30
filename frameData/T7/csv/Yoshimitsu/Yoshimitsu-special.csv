@@ -2,7 +2,7 @@ Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;
 in rage b+1+2;m;;20?;-;KND;KND;
 in rage u/b+1+4;Attack returned;20;6~;-;KND;KND;Rage drive
 1;h;9;10;+1;+8;+8;
-1, 1;h, m;9,21;10;-8~-7;+4~+5s;KND;
+1, 1;h, m;9,21;10;-9~-8;+4~+5s;KND;
 1, 2;h, m;9,16;10;-9;-3;-3;
 1, 2, 1;h, m, h;9,16,20;10;-9;-2;KND;
 2;h;13;10;-1;+5;+8;
