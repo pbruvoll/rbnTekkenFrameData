@@ -1,13 +1,13 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage 1+2;m;55(10,45);20 pc8~17;-22;KND;KND;Rage art
-in rage 1+2, b;m;20;20;-22;TSU;TSU;Rage art
+in rage 1+2, b;m;15;20;-22;TSU;TSU;Rage art
 in rage qcf+1+2;m;40(60);12(14~);+3(wl+9);KND;KND;Rage drive
 1;h;7;10;+1;+8;+8;
 1, 2;h, h;7,12;10;-1;+6;+6;
 1, 2, 3;h, h, m;7,12,7;10;-25~-24;-14~-13;-14~-13;
 1, 4;h, l (TC);7,8;s cs10~;-11;+1;+1;
 2;h;10(12);10;0;+6;+6;
-2, 3;h, h;12,21;10;-12~-11;KND;CS;
+2, 3;h, h;12,21;10;-9~-8;KND;CS;
 2, d+3;h, l (TC);10,11;s cs10~;-12;-1;-1;
 3;m;14;15~16;-7~-6;+4~+5;+4~+5;
 3, 2;m, h;14,17;15~16;-3;+7;KND;
@@ -18,7 +18,8 @@ f+2;h;10;12;0;+6;+6;
 f+2, 3;h, h;10,16;12;-11~-10;+5~+6;+5~+6;
 f+2, 3, 1;h, h, m;10,16,22;12;-12;KND;+19;
 f+1+2;m;22;20~21;+3~+4s;+8~+9s;KND;
-f+1+4;m;21;21~23;-14~-12;KND;KND;
+f+1+4;m;25;21~23;-14~-12;KND;KND;
+f+2+3;m;21;20~21;-14~-13;KND;KND;
 d/f+1;m;13;14;-2;+4;+4;
 d/f+1, 1;m, h;13,9;14;-5~-4;+5~+6;+8~+9;
 d/f+1, 1, 2;m, h, m;13,9,22;14;-9~-8;KND;KND;
@@ -47,7 +48,7 @@ b+2;m;22;18;-5s;+4s;+4s;
 b+2, 1;m, m;22,22;18;-12;0s;KND;
 b+2, 1*;m, m;22,35;18;+8~+9s;+8~+9s;KND;
 b+3;h;16;14~15;-6~-5;CS;CS;
-b+4;l;14;20~21;-13~-12;+3~+4;+3~+4;
+b+4;l;14;20~21;-13~-12;+3~+4;+16g~+17g;
 b+1+2;h;28;24 pc8~23;0;KND;KND;Power crush
 u/b+2;m;22;20~21;-9~-8;KND;CS;Homing
 u/f+2;m (TJ);35;34a js8;+9;KND;KND;Wall bounce
@@ -79,8 +80,8 @@ FC+d/f+1+2;l (TC);20;32~33s cs1~;-12~-11;KND;KND;
 D(Hundred and sixty frames);(Special);;32~33 1~;;;;
 D(Hundred and sixty frames)n, u+3+4 (On the way up);m (TJ), m;48;13~18d js9~;-49~-44;Launch;Launch;
 D(Hundred and sixty frames)n, u+3+4 (On the way down);m (TJ), m;48;46~56d js1~;-21~-11;-10~0s;-10~0s;
-SS+1;h;23;20(30~);+8;KND;KND;
-SS+3;l;18;19(29~);-12;+4;+12;
+SS+1;h;21;20(30~);+8;KND;KND;
+SS+3;l;17;19(29~);-12;+4;+12;
 Opponent Down, d+2;l(On grounded opponent);16;18;-12;+4;+4;
 qcf;(Special);;18;;;;
 qcf+1;h;21;16~17 (18~);-4~-3;YKU;YKU;
@@ -96,5 +97,5 @@ qcb+3;l (TC);14;18~19s (20~) cs1~;-21~-20;-9~-8;KND;
 qcb+3, 2;l, m;14,20;18~19 (20~) 1~;-10~-9;+6~+7;+6~+7;
 qcb+3, 2, 1;l, m, h;14,20,25;18~19 (20~) 1~;-10~-9;KMeD;KMeD;
 qcb+3, 2, 3;l, m, m;14,20,22;18~19 (20~) 1~;-13;KND;Launch;
-qcb+4;h;28;15~16 (17~);+1~+2;KND;CS;Homing, Tail spin
+qcb+4;h;23;15~16 (17~);+1~+2;KND;CS;Homing, Tail spin
 qcb+1+2;m?;22;18~19 (20~);-14~-13;Launch;Launch;

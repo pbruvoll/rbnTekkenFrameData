@@ -1,7 +1,7 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage d/f+1+2;m;55;20 pc8~17;-22;KND;KND;Rage art
-in rage f, n, d, d/f+1+4;m;45;18~19 (21~) cs1~;+5~+6;Launch;Launch;Rage drive
-in rage f, n, d, d/f+1+4, u/f (Only when hit );m, (throw), (DVK);45,12;18(21~) cs1~;;Throw(KND);Throw(KND);Rage drive
+in rage f, n, d, d/f+1+4;m;41;18~19 (21~) cs1~;+5~+6;Launch;Launch;Rage drive
+in rage f, n, d, d/f+1+4, u/f (Only when hit );m, (throw), (DVK);41,12;18(21~) cs1~;;Throw(KND);Throw(KND);Rage drive
 1;h;7;10;+1;+8;+8;
 1, 1;h, h;7,6;10;-1;+8;+8;
 1, 1, 2;h, h, m;7,6,12;10;-17;KND;KND;
@@ -12,18 +12,18 @@ in rage f, n, d, d/f+1+4, u/f (Only when hit );m, (throw), (DVK);45,12;18(21~) c
 2;h;12;12;-3;+8;+8;
 2, 2;h, m;12,24;12;-10~-9;+6~+7;CS;Tail spin
 3 or 3+4;h;14;14;-8;+4;+4;
-3, 1;h, h;14,7;14;-1;+7;+7;
-3, 1, 4;h, h, m;14,7,17;14;-6~-5;+8~+9;CS;
+3, 1;h, h;14,10;14;-1;+7;+7;
+3, 1, 4;h, h, m;14,10,17;14;-6~-5;+8~+9;CS;
 4;h;18;12;-9;+2;CS;
 (u/f)4~3;mm (TJ);18,25;31~33, 35~37d (31~) js10~;-11~-9;KND;KND;
-1+2;mm;5,20;12,28;-14;KND;KND;
+1+2;mm;5,20;12,28;-13;KND;KND;
 f+2;m;25;20 pc8~19;-12;KND;KND;Power crush
 f+3;m;22;19~20;-13~-12;+5~+6;+23g(KND);
 f+4;m;20;19~20;+4~+5s;+7~+8s;KND;
 f+1+2;m;20;25;-9;KND;KND;Wall bounce
 d/f+1;m;11;15~16;-7~-6;+9~+10;+9~+10;
 d/f+1, 2;m, m;11,20;15~16s;-13s;KND;KND;
-d/f+1, 4;m, h;11,20;15~16;-4~-3;+17~+18kg;+17~+18kg;Tail spin
+d/f+1, 4;m, h;11,20;15~16;-3~-2;+17~+18kg;+18~+19kg;Tail spin
 d/f+1, f+2;m, m;11,22;15~16;-12;KND;KND;
 d/f+2;m;22;14;-12;+5;CS(13);Homing
 d/f+3;m;13;18~19;-7~-6;+9~+10;+9~+10;
@@ -31,7 +31,7 @@ d/f+3, 2;m, m;13,15;18~19;-11;+5;+5;
 d/f+3, 2, 1;m, m, m;13,15,21;18~19;-18;KND;+24;
 d/f+4;m;10;13~14;-9~-8;+2~+3;+2~+3;
 d/f+4, 4;m, m;10,16;13~14;-15~-14;-4~-3s;-4~-3s;
-d+1+2;l (TC);20;25s cs6~;-14;+1s;KND;
+d+1+2;l (TC);20;25s cs6~;-14;+3s;KND;
 d/b+2;m;20;20s;-9s;KND;KND;
 d/b+3;l (TC);14;19~20s;-12~-11;-1~0;+7~+8s;
 d/b+4;l;18;20~21;-12~-11;+4~+5;+17g;
@@ -65,9 +65,10 @@ WS+2;m;25;16~17;-18~-17;CS;CS;Homing
 WS+3;m;24;21~23;-5~-3;KND;KND;Homing, Tail spin
 WS+4;m;13;11~12;-3~-2;+8~+9;+8~+9;
 WS+4, 4;m, m;13,16;11~12;-15~-14;-4~-3s;-4~-3s;
+WS1+2;m;25;13~14;-9~-8;+14g;KND;
 FC+d/f+3+4;m (TC);24;23s cs1~ ar13~;-11s;KND;KND;
 SS+3;m;23;23(32~);-7;CS;CS;
-SS+1+2;h;25;16~17 (25~);-6~-5;KND;KND;Tail spin
+SS+1+2;h;25;16~17 (25~);-3~-2;KND;KND;Tail spin
 Opponent Down d+3+4;On grounded opponent(l);20;23;-12;-1;-1;
 Odd frame f, n (SSL);(Special);;23;;;;
 Even frame f, n (SSR);(Special);;23;;;;
