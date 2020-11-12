@@ -9,7 +9,7 @@ in rage b+4, 2, f;m, m, (STB);11,21;20 8~17;+7;TKMD;TKMD;Rage drive
 2, 1, 2;h, m, m;10,13,25;12;-13~-11;KND;Tail spin;Tail spin
 3;h;21;12;-6;-1;JG;
 4;h;15;12;-8;+3;KND;
-4, 3;h, h (TJ);15,13;js17~;-5~-4;+15kg;Tail spin;Homing, Tail spin
+4, 3;h, h (TJ);17,13;js17~;0~+1;+15kg;Tail spin;Homing, Tail spin
 1+2;m;20;17;-14;+2s;+2s;
 1+2 When hit 1+2;m, (throw);20,20;17;;0;;
 1+2 When hit 1+2 When hit , b or f+2;m, (throw), (throw), (STB);20,20,18;17;;Throw(KND);Throw(KND);
@@ -18,7 +18,7 @@ f+2;h;9;12;0;+6;+6;
 f+2, 1;h, m;9,12;12;-10~-9;+6~+7s;+6~+7s;
 f+2, 1, 1+2;h, m, m;9,12,25;12;-18~-17;KND;KND;
 f+2, 2;h, m(, (Special))(STB);9,24;12;-26;CS;CS;Tail spin
-f+3;h (TJ);27;18 js9~;-5;+15k;Tail spin;Homing, Tail spin
+f+3;h (TJ);27;18 js9~;0;+15k;Tail spin;Homing, Tail spin
 f+4;m;23;22~23;+4s;+4s;KND;
 f+1+2;m;10;16;-18;-7;-7;
 f+1+2, 1+2;m, m;10,20;16;-14;KND;KND;
@@ -51,7 +51,7 @@ b+4, 3, 2;m, h (TJ);10,14,20;17;-13~-12;KND;KND;
 b+1+2;m;25;22~23 pc8~21;-13~-12;KND;KND;Power crush
 b+3+4;m;24;29~30;-14~-13;KND;KND;Wall bounce, Homing
 b+2+3;!;60;72;TKMD;TKMD;TKMD;
-u/b or u or u/f+2;m (TJ);25;25 js9~24;-9;KND;KND;
+u/b or u or u/f+2;m (TJ);25;25~26 js9~25;-3;KND;KND;
 u/b+3;m (TJ);20;23~24 js9~;+2~+3s;+7~+8s;JG;
 u+3;m (TJ);21;23~24 js9~;+2~+3s;+7~+8s;JG;
 u/f+3;m (TJ);22;23~24 js9~;+2~+3s;+7~+8s;JG;
@@ -61,9 +61,11 @@ f, F+2 or FC+d/f+2;m;14;14~16 (15~);-18~-16;-7~-5;-7~-5;
 f, F+2, 2 or FC+d/f+2, 2;m, h (STB);14,20;14~16 (15~);-2~-1;KND;KND;
 f, F+2, 1+2 or FC+d/f+2, 1+2;m, m;14,20;14~16 (15~);-13~-12;KND;KND;Wall bounce
 f, F+4;m (TJ);20;15~17 (16~) js11~;-5~-3;KND;KND;
+f, F+1+2;m;23;17~18;-8~-7;KND;KND;
 f, f, f+2;h (STB);40;13~16 (16~) js3~;+7~+10g;KND;KND;
 WS+1;m;12;12~13;-4~-3;+7~+8;+7~+8;
 WS+1, 1;m, h;12,15;12~13;-12;+9;+9;
+WS+1, 2;m, m;12,12;12~13;-9;+4;+9;
 WS+2;m(, (Special))(STB);20;15~16;-14~-13;Launch (JG?);Launch (JG?);
 WS+3;m;20;16;-8;KND;KND;
 WS+4;m;18;11~12;-6~-5;+5~+6;+5~+6;
@@ -74,8 +76,9 @@ STB f+1+2, 1+2;m, m;10,20;16;-9;SPD;SPD;
 STB d+1;m;16;17~18;-9~-8;+2~+3;+2~+3;
 STB d+1, 2;m, m;16,23;17~18;+8~+9;KND;KND;Tail spin
 STB d+2;l (TC);11;20s cs7~;-12;-1;-1;
-STB d+2, 2;l, l;11,15;cs1~;-12~-11;KND;KND;
+STB d+2, 2;l, l;11,17;cs1~;-12~-11;KND;KND;
 STB d/b+1+2;m, !;20,20;20,55;CS;CS;CS;
 STB b+4;m;10;17;-14;-3;-3;
 STB b+4, 3;m, h;10,14;17;-15~-14;-4~-3;-4~-3;Homing
-STB b+4, 3, 2;m, h, m (TJ);10,14,35;js1~31;-1~0;JG;JG;
+STB b+4, 3, 2;m, h, m (TJ);10,14,38;js1~31;-1~0;JG;JG;
+STB WS+1, 2;m, m;12,23;12~13;+8;KND;KND;
