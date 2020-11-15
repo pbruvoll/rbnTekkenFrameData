@@ -4,7 +4,7 @@ Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;
 3;h;22;16;-8;KND;KND;
 4;h;20;15;-8;+3;+3;
 b+1;h;18;20~21;-7~-6;+4~+5;+13~+14OB;Homing
-b+2;m;12;15 RC;-18;-7;-7;
+b+2;m;12;15 RC;-14;-7;-7;
 b+3;h;22;16;-8;KND;KND;
 b+4;m;14;15;-10;+1;+8;
 f+1;h;10;12;+3;+9;+11;

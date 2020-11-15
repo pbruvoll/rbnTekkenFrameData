@@ -3,7 +3,7 @@ in rage 3+4;m (TJ);55;20 pc8~17 js8~;-22;KND;KND;Rage art
 in rage d/f+2+3;m, h;10,20;22 js9~;+9~+10;KND;KND;Rage drive, Homing
 1;h;7;10;+1;+8;+8;
 1, 2;h, h;7,12;10;-1;+8;+8;
-1, 2, 3;h, h, l (TC);7,12,10;cs10~;-13;-2;KND;
+1, 2, 3;h, h, l (TC);7,12,13;cs10~;-13;-2;KND;
 1, 2, 4;h, h, m (TJ);7,12,20;js21~;-9~-4;KND;KND;
 2;h;8;10;0;+8;+8;
 2, 3;h, l (TC);8,10;cs10~;-13;-2;KND;
@@ -45,8 +45,8 @@ d+2;m;16;16~17;-7~-6;-1~0;-1~0;
 d+2, 2;m, h;16,10;16~17;-10~-9;-4~-3;-2~-1;
 d+2, 2, 3;m, h, h;16,10,24;16~17;-3~-1;KND;KND;Tail spin
 d+2, 2, 4;m, h, m;16,10,24;16~17;-17;KND;KND;
-d+3;l;14;19~20;-12~-11;+1~+2;+1~+2;
-d+1+2;m;20;20 pc8~;-13;KND;KND;Power crush
+d+3;l;14;19~20;-12~-11;+1~+2;+5~6s;
+d+1+2;m;25;20 pc8~;-13;KND;KND;Power crush
 d+3+4;m?;23;17~21a;-21~-17;Launch(JG?);Launch(JG?);
 d/b+3;h;20;19~22 cs6~16;-9~-6;KND;KND;Tail spin, Homing
 d/b+4;l (TC);20;30~31 cs5~;-24;YKU;YKU;Homing
@@ -64,9 +64,9 @@ b+4 or BT b+4;(Special) (TJ);;13;;;;
 b+3 or 4, f;(Special) (TJ);; RC;;;;
 b+3, 3 or b+4, 3;(Special) (TJ), l (TC);25;24~25s (49~);-15~-14;KND;KND;
 b+3, 4 or b+4, 4;(Special) (TJ), m (TJ);27;23~29 (48~);-6~0;KND;KND;
-b+1+2;m;24;23~24;-14~-13;KND;KND;
+b+1+2;m;24;23~24;-12~-11;KND;KND;
 b+1+4;! (TJ);50;63~65 js56~;KND;KND;KND;
-u/b or u or u/f+2;m;21;20~21;-12~-11;KND;KND;
+u/b or u or u/f+2;m;21;20~21;-10~-9;KND;KND;
 u/b or u+3;m (TJ);26;22~23 js16~;-16~-15;Launch (JG?);Launch (JG?);
 u/b or u+3, f;m (TJ), (Special);26;22~23 js16~;-13~-12;Launch (JG?);Launch (JG?);
 u/b or u+3, 3;m (TJ), m (TJ);26,15;js9~;-12;0;0;
@@ -76,6 +76,7 @@ u+3+4;m (TJ), (Throw);18(,5,5);36~39 js5~;-8~-5;Launch (JG?)(Throw);Launch (JG?)
 u+3+4 (Far);m (TJ);18;36~39 js5~;-8~-5;KND;KND;
 u/f+3;m (TJ);13;15~17 js9~;-13~-11;Launch (JG?);Launch (JG?);
 u/f+4;m (TJ);12;25~29 js9~;-12~-8;+1~+5s;+1~+5s;
+u/f+4, b;m(BT) (TJ);12;25~29 js9~;-12~-8;+1~+5s;+1~+5s;
 u/f+4, 3;m (TJ), m;18,23;28~32 12~;-9;KND;KND;Wall bounce
 u/f+3+4;m (TJ);15;15~18 js9~;-9~-6;+2~+5;+2~+5;
 u/f+3+4, 3;m (TJ), h;15,18;15~18 9~;-9;0;KND;
@@ -100,14 +101,14 @@ WS+2, B;m?(BT);17;16~18b;-12~-10;Launch (JG?);Launch (JG?);
 WS+3;m;20;16~17 ar13~;-21~-20;Launch (JG?);Launch (JG?);
 WS+3, 4;m, m;20,25;js27~43;+4~+7s;KND;KND;
 WS+4;m;18;11~12;-8~-7;KND;KND;
-FC+d/f+1;m;25;14~15;-9~-8;KND;KND;
+FC+d/f+1;m;25;14~15;-6~-5;KND;KND;
 FC+d/f+3 or d, D/F+3;l (TJ),  (TC);19;23~32 cs18~;-18~-9;-2~+7;KND;
 SS+3;m;20;18~19 (27~);-9~-8;KND;KND;
 SS+1+2;m;21;19~20 (28~);-2~-1;KND;CS;
 qcf or From certain moves;(Special);; RC;;;;
 qcf+1;m;16;15~16 (17~);-12~-11;-1~0;-1~0;
 qcf+1, 2;m, m;16,20;15~16 (17~);-14~-13;KND;CS;
-qcf+1, 2, B (Cancel);m(BT);16;15~16 (17~)b;-19~-18;-8~-7;-8~-7;
+qcf+1, 2, B (Cancel);m(BT);16;15~16 (17~)b;-17~-16;-6~-5;-6~-5;
 qcf+2;m;13;14~15 (16~);-9~-8;0~+1;0~+1;Homing
 qcf+2, 1;m, m;13,20;14~15 (16~);-13~-12;KND;KND;
 qcf+3;m;20;16~17 (18~);-21~-20;Launch (JG?);Launch (JG?);
@@ -116,11 +117,12 @@ qcf+4;m;18;11~12 (13~);-8~-7;KND;KND;
 qcf+3+4;hh (TJ);6,20;12~14, 22~23 (14~) js12~;+6~+7;+17k;+17k;Homing, Tail spin
 b+3+4 (to BT);(BT);;b;;;;
 BT 1;h;8;8;-8;+3;+3;
-BT 1, 2;h, h;8,13;8;-3;+5;+5;
+BT 1, 2;h, h;8,13;8;-3;+8;+8;
+BT 1, 4;h, h;8,21;8;-5;+10kg;+10kg;Tail Spin
 BT 2;m;17;14~16;-5~-3;KND;KND;Tail spin
 BT 3;h;25;10;-8;KND;KND;
 BT 4;mm (TC);10,20;26~28, 55~56b 1js13~ 2js1~14;-11~-10;KND;KND;
-BT 4, 3+4;mm (TC), mm (TJ);10,20,10,20;b js14~31;-10~-8;KND;KND;
+BT 4, 3+4;mm (TC), mm (TJ);10,20,10,15;b js14~31;-10~-8;KND;KND;
 BT 1+2;mm;5,20;13~14, 19~20;-10~-9s;KND;KND;
 BT 3+4;m (TJ);18;29~32 js5~;-4~-1;+5~+8s;+5~+8s;
 BT 3+4, 2;m (TJ), m;18,21;29~32 5~;-11~-9;KND;KND;Tail spin
