@@ -182,4 +182,4 @@ SET D;(special);;;;;;
 SET B;(special);;;;;;
 SET u/f+4;m;12;13 js11~;-14;;;
 SET u/f+4 (hit in front);m;12,25;13 js11~;;throw;throw;
-b+1+3 or b+2+3 (counters h);;35;3~12;;throw;;
+b+1+3 or b+2+4 (counters h);;35;3~12;;throw;;
