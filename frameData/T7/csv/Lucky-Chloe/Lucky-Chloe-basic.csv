@@ -19,8 +19,8 @@ d/b+1;m;20;21 pc8~;-13;KND;KND;Power crush
 d/b+2;Sm (TC);8;11s cs4~;-4;+7;+7;
 d/b+3;l, (TWISTL);17;15;-11;+7s;+7s;
 d/b+4;l (TC);15;18 cs6~;-14;-3;-2;
-b+1;m;20;17~19;-11~-9;KND;Launch;
-b+2;m;20;22;-4;+4s;KND;
+b+1;m;25;17~19;-11~-9;KND;Launch;
+b+2;m;20;22;-4;KND;KND;
 b+3;m;15;17;-11;+10kg;+10kg;Tail spin, Homing
 b+4;m;17;16;-8;+8;CS;
 u/b or u or u/f+1;m (TJ);12;18 js9~;-8;+3;+3;
