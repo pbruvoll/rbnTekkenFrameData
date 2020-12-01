@@ -53,9 +53,10 @@ d+3, 1;l, Sm;12,5;15 61~s;-9;+2;+2;
 d+3, 1, 1+2;l, Sm, (MAX );12,5;15 61~;-1;+10g;+10;
 d/b or d+4 or FC+4 BT d+3 or 4;l, (Special);15;17~18s cs6or1~;-31;-5~-4;KND;
 d/b or d+4, 1+2;l(MAX );15;17~18 cs6or1~;;+15~+16g;KND;
-d+1+2;l;20;24~25s cs6~;-18~-17;KND;KND;
-b+1;h;10;12~13;-7~-6;+4~+5;+4~+5;
-b+1, 2;h, m;10,18;12~13;-12;+1;KND;
+d+1+2;l;15;24~25s cs6~;-18~-17;KND;KND;
+b+1;h;8;12~13;-7~-6;+4~+5;+4~+5;
+b+1, 2;h, m;8,23;12~13;-12;+1;KND;
+b+1, 3;h, h;8,15;12~13;+1;+20g;+20g;
 b+2;m;23;24;+2;KND;KND;
 b+3;m;11;14~15;-12~-11;-1~0;-1~0;
 b+3, 2;m, m;11,15;14~15;-15~-14;KND;KND;
@@ -65,12 +66,12 @@ b+4, 4;l, h;10,17;19;-3~-2;+16~+17kg;KND;Tail spin
 f, f, f+1;m;26;15~16 (18~);-8~-7;KND;KND;
 WS+1;m;12;13~14;-8~-7;+3~+4;+3~+4;
 WS+1, 1+2;m, (MAX );12;13~14;-3~-2;+8~+9;+8~+9;
-WS+2;m;10;18;-14;-3;-3;
-WS+2 When hit F+2;m, (throw);10,10,10;18;;Launch;Launch;
+WS+2;m;15;18;-14;-3;-3;
+WS+2 When hit F+2;m, (throw);15,10,10;--;Launch;Launch;
 WS+3;h;14;15~16;-8~-7;Tail spin;Tail spin;Tail spin
 WS+4;m;18;11;-5;+6;+6;
-FC+d/f+1;m;20;15;-14;Launch (JG?);Launch (JG?);
-SS+3;l;18;19(28~);-12;+6;KND;
+FC+d/f+1;m;17;15;-14;Launch (JG?);Launch (JG?);
+SS+3;l;18;19(28~);-12;+4;KND;
 Jump 1;m;10;9 (14~37) js1~;-21~+2;-11~+12;-11~+12;
 Jump 2;mm;10,10;9,21 (14~37, 26~) js1~;-12~;0~;0~;
 Jump 2 (Second hit miss);m;10;9 (14~37) js1~;-17~+7;-7~+17;-7~+17;
@@ -80,8 +81,8 @@ Back to wall b, b, u/b;m;25;29~45 js1;-12~+4;KND;KND;
 1+3+4;(Special);;29~45 1;;;;
 qcf+1;Sm;14;19~;-13~;-5~;-5~;
 qcf+2;Sm x 2;10,8;19~,43~;-19~;-8~;-8~;
-dp+1;Sm, h;10,17;19,33~;-6;KND;KND;Tail spin
-dp+2;Sm, h;10,17;23,39~;-6;KND;KND;Tail spin
+dp+1;Sm, h;10,15;19,33~;-6;KND;KND;Tail spin
+dp+2;Sm, h;10,15;23,39~;-6;KND;KND;Tail spin
 qcb+1;h;20;15;-15;KND;KND;
 qcb+2;h;10;20;-15;-5;-5;
 qcb+2, 1;h, m;10,15;20;-15;KND;KND;
@@ -93,7 +94,7 @@ Jump qcb+1 or 2;Sm (TJ);14;17~(~) js1~;-34~;-23~;-23~;
 f+1+2, qcb+1 or 2;m (TJ), Sm (TJ);15,14;17~(~) 1~;-27~;KND;KND;
 1+2+3;(MAX);;17~(~) 1~;;;;
 MAX qcf+1+2;Sm x 2;10,10;19~,42~;+1~;KND;KND;
-MAX dp+1+2;Sm, h;10,17;23,38~;-2;Tail spin;Tail spin;
+MAX dp+1+2;Sm, h;10,15;23,38~;-2;Tail spin;Tail spin;
 MAX qcb+1+2;h;10;19;-12;-2;-2;
 MAX qcb+1+2, 1;h, m;10,10;19;-2;KND;KND;Wall bounce
 MAX qcb+1+2, 3;h, m;10,20;19;-8~-6s;KND;KND;
