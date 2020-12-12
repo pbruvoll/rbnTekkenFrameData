@@ -14,7 +14,7 @@ in rage b+3+4;m (TJ);55;20 js13~17 pc8~17;-22;KND;KND;Rage art
 f+3;m;17;16~17;-9~-8;0~+1;+25g(KND);
 f+1+2;m;21;25 pc8~24;-13;KND;CS;Homing, Power crush
 d/f+1;m;12;13;-3;+3;+3;
-d/f+1, 2;m, m;12,17;13;-13;-2;KND;
+d/f+1, 2;m, m;12,17;13;-12;+2;KND;
 d/f+1, 4;m, h;12,14;13;-9;+2;+2;
 d/f+2;m;10;16~17;-9~-8;+2~+3;+2~+3;
 d/f+2, 3;m, m (TJ);10,10;js14~;-18~-17;Launch;Launch;
@@ -29,7 +29,7 @@ d+1+2 or FC+d/b or d+1+2 Grounded face up d+1+2;(Special) (TC);;20~21 61~;;;;
 d/b+1+2;! (TJ);30;51~52 js21~50;KND;KND;KND;
 b+1;m;13;14;-8;+3;+3;
 b+1, 2;m, m;13,13;14a;-13~-11;Launch (JG?);Launch (JG?);
-b+1, 2, 4;m, m, m (TJ);13,13,23;js1~;-13~-12s;KND;KND;
+b+1, 2, 4;m, m, m (TJ);13,13,17;js1~;-13~-12s;KND;KND;
 b+2;h;10;11;-4;+2;+2;
 b+2, 3;h, m;10,15;11;-9~-8;+3~+4;uKZD;
 b+3;h;12;16;-9;+2;+2;
@@ -68,6 +68,7 @@ Grounded face up 1+2;(Special) (TC);;9(14~) 1~;;;;
 f+4;(MG);;9(14~) 1~;;;;Press down to recover crouching
 MG 1;h;11;10(25~);-4;+2;+2;
 MG 1, 2;h, h;11,12;10(25~);-8;+1;+1;
+MG 1, 4;h, m;11,20;10(25~);-11;KND;TS;Tail spin;
 MG 1, 2, 1+2;h, h, m;11,12,21;10(25~);-13~-12;KND;KND;
 MG 2;m (DS);25;14(29~);-9;KND;KND;
 MG 2, b;m;25;14(29~);-9;KND;KND;
