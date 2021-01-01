@@ -1,7 +1,7 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage d+1+2;m;55;20 pc8~17;-22;Throw(KND);Throw(KND);Rage art
-in rage f+2+3;m (TJ);50;20~21 js5~17;+9~+10g (wl+15g);KND;KND;Rage art
-in rage f+2+3, d/f;m (TJ), (Special);50;20~21;+28~+29?;KND;KND;Rage art
+in rage f+2+3;m (TJ);50;20~21 js5~17;+9~+10g (wl+15g);KND;KND;Rage drive
+in rage f+2+3, d/f;m (TJ), (Special);50;20~21;+28~+29?;KND;KND;Rage drive
 1;h;7;10;+1;+8;+8;
 1, 2;h, h;7,10;10,20;-1;+5;+5;
 1, 2, u or D;h, h, (Special);7,10;10,20;0;+6;+6;
