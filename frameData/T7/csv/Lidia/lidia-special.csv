@@ -1,4 +1,4 @@
-command;hit level;damage;startup frame;Block frame;hit frame;counter hit frame;notes
+Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage d+1+2;m;55;20;-22;KND;KND;Rage art
 in rage f, f+2+3;m (CFO on block);30;13;+27;tail spin;tail spin;Rage drive
 in rage TAW 4, 2;l, m;12, 14;20;-12;KND;KND;Rage drive
@@ -84,19 +84,46 @@ b+4, 4, 4;h, l (TC), h (TJ);21, 13, 25;;-14;KND;KND;recover crouch
 b+1+2;m;14;16~17;-8;+6;+6;
 b+1+4 (parries h/m punch);m!;35;60 (parry 2~25);KND;KND;KND;
 u/b+1;m;25;19;-12;KND;KND;
-u/f+3;m (TJ);20;25~27 cs?~;-7;+4s;KND;
-u/f+4;mh (TJ) (CFT on hit);29;15~16 cs9?;-13;Tail spin;Tail spin;
+u or u/f+1;m (TJ);12;18 js9~;-12;-1;-1;
+u/b or u or u/f+2;h;17;15~16;-12;+9;+9;
+u/b+3;m;25;21 js9~;-17;KND;KND;
+u or u/f+3 or BT u/f+3+4;m (TJ);20;25~27 cs11~;-7;+4s;KND;
+u/b+4;m (TJ);11;15 js9~;-19;-8;-8;
+u or u/f+4;mh (TJ) (CFT on hit);29;15~16 cs9~;-13;Tail spin;Tail spin;
+u/f, N, 4;m (TJ);25;23~25 js9~;-11;Launch;Launch;
 f, f+2;m (CFO on hit);20;13;-2;+15;+15;
 f, f+3;m;21;19~20;-14;Launch;Launch;
 f, f+4;m;21;15;-3;+7;+7;
-f, f+4~3;h;21;?;+8;CS;CS;
+f, f+4~3;h;21;32~33;+8;CS;CS;
 f, f+1+2;m;23 (34 on clean hit);15~16;-13~14;KND;KND;
-f, f+3+4;m (TJ);22;19~21 js?;-8~-6;KND;KND;
+f, f+3+4;m (TJ);22;19~21 js10~;-8~-6;KND;KND;
 qcf+2;m;14;16;-8;0;0;
 qcf+2, 2;m, m;14, 17;;-14;-1;-1;
 qcf+2, 2, b,f+1+2;m, m, m;17, 17, 25;;-16;KND;KND;
 qcf+2, 2, b,f,f+1+2;m, m, m;17, 17, 30;;-16;KND;KND;
 WR+1 or f, f, f+1;h;24;13~15;+7~+9;KND;KND;
+FC+1;sm (TC);5;10s;-5;+6;+6;
+FC+2;sm (TC);8;11s;-4;+7;+7;
+FC+3;l (TC);12;16s;-17;-3;-3;
+FC+4;l (TC);10;12s;-15;-4;-4;
+FC+d/f+2;m;28;12;-14;KND;KND;
+FC+ d/f+3;l (TC);20;20s;-26;KND;KND;
+WS+1;m;12;13~14;-3;+4;+4;
+WS+1, 2;m, h;12, 18;;-5;+6;+6;
+WS+1, 4;m, m;12, 20;;-12;KND;KND;
+WS+2;m;15;15~16;-12;Launch;Launch;
+WS+3;m;14;14~15;-8;+3;+3;
+WS+3, 2;m, m;15, 23;;-13;KND;KND;Wall bounce
+WS+4;m;13;11~12;-4;+7;+7;
+WS+4, 2;m, h;13, 12;;-6;+8;+8;
+SS+1;m;18;18;0s;+5s;KND;
+SS+4;h;21;16;-6;CS;CS;Tail spin
+Opponent down d+2;l;27;23;-13;-7s;-7s;
+1+3+4;(special);;;;;;
+Back agains wall b, b, u;m (TJ);21;36 js5~;0s;KND;KND;
+BT 1 or 2;h;15;8;-8;+3;+3;
+BT d+1 or d+2;sm (TC);10;10 cs1~;-2;+9;+9;
+BT d+3 or d+3;l (TC);12;10 cs1~;-11;+3;+3;
 f+3+4 (CF0);(CF0);;44;;;;
 CF0 1;h;22;19;4;KND;KND;
 CF0 2;m;17;17;-9;+4;CS;
