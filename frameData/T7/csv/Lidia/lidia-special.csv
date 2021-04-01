@@ -150,3 +150,7 @@ TAW 2;m;25;15;-7;KND;KND;
 TAW 3;m;19;17;-6;+4;+4;
 TAW 3, 1;m, m;19, 21;;-6;+9;KND;
 TAW 4;l;23;20;-12;KND;JG;
+b+1+3 or b+2+4 (UP);(parries h/m punch);;(parry 2~10);;;;
+UP 2;h;9;;-13;+8;+8;
+UP 2, 1;h, h;9, 9;;-13;+8;+8;
+UP 2, 1 (on hit) 2;h, h, h;9, 9, 20 (22);;-13;KND;KND;
