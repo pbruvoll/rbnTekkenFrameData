@@ -1,8 +1,8 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage 1+2 or WS+1+2;h;55;13 pc8~;-3;KND;KND;Rage art
 in rage d/f+3+4;(Special), (Special) (TC);;13 8~;;;;Rage drive
-in rage d/f+2+3;m, m;14,21;14;+7;JG;JG;Rage drive
-in rage D/f+2+3;m, m (DUK);14,21;14;+15g;JG;JG;Rage drive
+in rage d/f+2+3;m, m;5,21;14;+7;JG;JG;Rage drive
+in rage D/f+2+3;m, m (DUK);5,21;14;+15g;JG;JG;Rage drive
 in rage d/f+3+4, 1+2;(Special), m x 5;10*4,19;15,(35~) cs1~;+1 (wl+7);KND;KND;Rage art
 1;h;7;10;+1;+8;+8;
 1, 1;h, h;7,7;10;-3;+3;+3;
@@ -39,7 +39,7 @@ f+2, 1;m, h;11,12;21~22;-5;-1;-1;
 f+2, 1, F;m, h, (Special);11,12;21~22;0;+4;+4;
 f+2, 1, B;m, h, (FLK);11,12;21~22;+1;+5;+5;
 f+2, 1, B, d/b (Cancel);m, h, (FLK);11,12;21~22 RC;0;+4;+4;
-f+2, 1~2;m, m;11,20;21;-9;KND;KND;
+f+2, 1~2;m, m;11,20;21;-10;KND;KND;
 f+1+2;mh;10,12;15~16, 23~25;-14~-12;-3~-1;-3~-1;
 f+1+2, 2;mh, m;10,12,20;15~16, 23~25;-13~-12;KND;KND;
 d/f+1;m;12;13~14;-2~-1;+5~+6;+5~+6;
@@ -48,14 +48,14 @@ d/f+1, 2;m, h;12,13;13~14;-6;+3;+5;
 d/f+1, 2, 3 or 4 to Weave  (Cancel);m, (Special);12;13~14;-16~-15;-9~-8;-9~-8;
 d/f+1, 2~1;m, h;12,20;13~14;-2~-1;+2~+3;CS;
 d/f+12~1 B;m, h, (FLK);12,20;13~14;0~+1;+4~+5;CS;
-d/f+1, 2~2;m, m;12,20;13~14;-9;KND;KND;
+d/f+1, 2~2;m, m;12,20;13~14;-10;KND;KND;
 d/f+1, 2~f+1+2;m, hh;12,8,12;13~14;-3;0;0(+3);
 d/f+1, 2~f+1+2 , 3 or 4 to Weave ;m, hh, (Special);12,8,12;13~14;-4;-1;-1(+2);
-d/f+2;m;18;16~17;-11~-10;+6~+7;CS;Homing
-d/f+2, 3 or 4 to Weave ;m, (Special);18;16~17;-7~-6;+10~+11;CS;Homing
+d/f+2;m;18;16~17;-11~-10;+6~+7;CS;
+d/f+2, 3 or 4 to Weave ;m, (Special);18;16~17;-7~-6;+10~+11;CS;
 d/f+1+2;mm;14,21;14,24~25;-12~-11;KND;KND;
 d/f+1+2 (Second hit miss);m;14;14;-23;-12s;-12s;
-d+1;l (TC);12;16s cs6~;-13;0;0;
+d+1;l (TC);12;16s cs6~;-13;-2;-2;
 d+2;l (TC);11;17 cs6~;-18;-5;-5;
 d+2, 1;l (TC), m;11,8;17 6~;-11~-10;-5~-4;0~+1;
 d+2, 1, 3 or 4 to Weave ;l (TC), m, (Special);11,8;17 6~;-6~-5;0~+1;+5~+6;
@@ -198,7 +198,7 @@ FLIK 1, f+1;h, m;14,17;12;-5;0s(+9s);KND;
 FLIK 1, d or u+1;h, h;14,23;12;0~+2;+18;Tail spin;Tail spin
 FLIK 2;m;21;18~19 (23~);-5;KND;Launch;
 FLIK 1+2;h(Throw);40;12(17~);;Throw(KND);;
-FLIK b+2;h;27;14~15 (19~) pc8~13;-9;KND;KND;Power crush
+FLIK b+2;h;21;14~15 (19~) pc8~13;-9;KND;KND;Power crush
 FLIK f+3+4;(PAB);;14~15 (19~) 8~13;;;;
 FLIK b+1+2;Absorbs 1 h/m hit;;2~;;;;
 FLIK etc;;;2~;;;;
