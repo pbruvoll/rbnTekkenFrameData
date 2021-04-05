@@ -1,7 +1,7 @@
 # RBNorway Tekken frame data
 
 This is a repository for storing frame data for Tekken 7.
-You can view det data at http://rbnorway.org/t7-frame-data/ or at https://rbnorway-t7.web.app
+You can view the data at http://rbnorway.org/t7-frame-data/ or at https://rbnorway-t7.web.app
 
 ## Source of data
 This data was originally a translation of a japanese site called inatekken. After season 1 of tekken 7, that site went offline. We continued to update the data, using multiple sources.
