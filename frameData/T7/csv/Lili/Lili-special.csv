@@ -134,3 +134,4 @@ BT d+3+4;l (TC)(BT);25;22~25b cs4~;-26;KND;KND;Homing
 BT d+3+4, F;l (TC);25;22~25 cs4~;-26;KND;KND;Homing
 BT b+3;(Special) (TJ);;22~25 4~;;;;
 BT b+4;(Special) (TJ);;22~25 4~;;;;
+b+1+3 or b+2+4; (reverses h/m); 25 + 50% of attack; 3~8;;;;

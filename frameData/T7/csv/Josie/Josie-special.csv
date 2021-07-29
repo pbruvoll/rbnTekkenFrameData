@@ -89,7 +89,7 @@ FC+d/f+4;l;25;21 cs1~;-15;+7;CS;
 FC+d/f, d, d/f;(Special);;s cs1~;;;;
 1+2+3;(Special);; 1~;;;;
 From certain moves (to SWS);(SWS);; 1~;;;;
-SWS 1;h;20;14~15;-7~-6s;+5~+6s;CS;
+SWS 1;h;20;14~15;-1~-0s;+5~+6s;CS;
 SWS 2;m;17;18~19;-6~-5;+5~+6;CS;
 SWS 3;l;17;20;-12;-1;KND;Homing
 SWS 4;m;23;23 js12~;-9;KND;KND;Wall bounce
