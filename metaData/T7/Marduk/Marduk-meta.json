@@ -3,7 +3,7 @@
      "key_moves" : ["1, 2", "1, d+2"]
   },
   "youtube" : {
-    "header" : ["id", "title", "Chanel"],
+    "header" : ["id", "title", "chanel"],
     "data" : [
       ["szehj7w-WI0", "How to Play & Beat Marduk | 8 Min Guide", "TheMainManSwe"],
       ["eJkU2gSOO4M", "[Guide] Marduk: The Basics, part 1 - Essential Moves", "XiangsGaming"],
@@ -14,6 +14,7 @@
   "links" : {
     "header" : ["url", "title"],
     "data" : [
+      ["https://discord.gg/MaJ9Ads", "Marduk Discord"],
       ["https://docs.google.com/spreadsheets/d/11ETDnPJuku2ref3PzODMpZ4y7e5_wfILR2aPv83WpSw/edit#gid=512805324", "Applay's Quick Guide"]
     ] 
   }
