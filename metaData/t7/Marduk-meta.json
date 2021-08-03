@@ -1,0 +1,40 @@
+{
+  "important_moves": {
+    "key_moves": [
+      "1, 2",
+      "1, d+2",
+      "1+2",
+      "d/f+3, 1, d+2",
+      "d+1",
+      "b+4",
+      "u/f+3",
+      "d+3",
+      "d/b+2",
+      "d+4",
+      "VTS 1+2"
+    ]
+  },
+  "youtube": {
+    "header": ["id", "title", "Chanel"],
+    "data": [
+      ["szehj7w-WI0", "How to Play & Beat Marduk | 8 Min Guide", "TheMainManSwe"],
+      ["eJkU2gSOO4M", "[Guide] Marduk: The Basics, part 1 - Essential Moves", "XiangsGaming"],
+      ["pAWBBhCeXu0", "[Guide] Marduk: The Basics, part 2 - Common Strategies", "XiangsGaming"],
+      [
+        "xfUmGKw55to",
+        "[Guide] Marduk: The Basics, part 3 - Punishers, Juggles, and Summary",
+        "XiangsGaming"
+      ]
+    ]
+  },
+  "links": {
+    "header": ["url", "title"],
+    "data": [
+      ["https://discord.gg/MaJ9Ads", "Marduk Discord"],
+      [
+        "https://docs.google.com/spreadsheets/d/11ETDnPJuku2ref3PzODMpZ4y7e5_wfILR2aPv83WpSw/edit#gid=512805324",
+        "Applay's Quick Guide"
+      ]
+    ]
+  }
+}
