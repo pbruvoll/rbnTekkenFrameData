@@ -45,8 +45,8 @@ d/f+3, 4;m, m;15, 20;;-12;KND;KND;
 d/f+3~1;h;13;32~33;-3;+5;+5;
 d/f+3~1, 2;h, h;13, 20;;+7;KND;KND;
 d/f+4;m;16;15;-4;+4;+6;
-d/f+4, 2;h, h;16, 25;;+1;KND;KND;
-d/f+4, 3;h, m (TJ);16, 23;;-10;+8k;+8k;Tail spin
+d/f+4, 2;m, h;16, 25;;+1;KND;KND;
+d/f+4, 3;m, m (TJ);16, 23;;-10;+8k;+8k;Tail spin
 d/f+4~4;h;27;24~25;+6s;JG;JG;Tail spin
 d/f+1+2;m (parries right punch);21;23 (parry 2~17);-2;+7;+7;
 d/f+1+2, (on parry) 2;m, h;21, 29;;;KND;KND;
