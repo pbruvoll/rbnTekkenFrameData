@@ -126,7 +126,7 @@ BT d+1 or d+2;sm (TC);10;10 cs1~;-2;+9;+9;
 BT d+3 or d+3;l (TC);12;10 cs1~;-11;+3;+3;
 f+3+4 (CF0);(CF0);;44;;;;
 CF0 1;h;22;19;4;KND;KND;
-CF0 2;m;17;17;-9;+4;CS;
+CF0 2;m;17;17;-10;+4;CS;
 CF0 3;h;28;26~27;-1;Tail spin;Tail spin;Tail spin
 CF0 4;m;20;28;+8;KND;JG;
 CF0 or CFT b;(special);;40 js11~;;;;

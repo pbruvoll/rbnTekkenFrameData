@@ -10,7 +10,7 @@ in rage f+2+3;m;10,30;18;+2;throw;throw;rage drive
 2, 2;m,m;9,13;15;-9;+6;+6;nc from 1st hit
 2, 2, 2;m,m,h;9,13,7;15;-8;-2;-2;
 2, 2, 2, 2;m,m,h,h;9,13,7,7;15;-7;+7;+7;nc from 3rd hit
-2, 2, 2, 2, 2;m,m,h,y,m;9,13,7,7,15;15;-14;KND;KND;nc from 3rd hit
+2, 2, 2, 2, 2;m,m,h,h,m;9,13,7,7,15;15;-14;KND;KND;nc from 3rd hit
 2, 2, f+2;m,m,m;9,13,23;15;-14;+5;Tail Spin;Tail spin
 2, 2, b+2;m, m, m(throw);9,9,5,(20);15 js;-11;throw;throw;
 3;h;15;14;-7;-1;-1;

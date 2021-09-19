@@ -1,7 +1,7 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage d+1+2 in rage HMS d+1+2;m;20 pc8~17;55;-22;KND;KND;Rage art
-in rage d/f+3+4;m;25;16~17;-1~0;KND;KND;Rage art, Tail spin
-in rage d/f+3+4, f, N;m, (MS);25;16~17;+2~+3;KND;KND;Rage art, Tail spin
+in rage d/f+3+4;m;25;16~17;-1~0;Tail spin;Tail spin;Rage drive, Tail spin
+in rage d/f+3+4, f, N;m, (MS);25;16~17;+2~+3;Tail spin;Tail spin;Rage drive, Tail spin
 1;h;7;10;+1;+8;+8;
 1, 2;h, h;7,9;10;-1;+5;+5;
 1, 2, 2;h, h, m;7,9,14;10;-13~-12;-2~-1;-2~-1;
