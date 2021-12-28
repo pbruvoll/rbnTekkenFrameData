@@ -1,0 +1,90 @@
+template;https://gfycat.com/ifr/{url}
+1, 1;FortunateClutteredAddax
+1, 2;WeepyKindlyHornbill
+1, 2, 3;EmotionalForsakenGrison
+1, 2, 4;NiceSpecificLice
+1, 3;VengefulBowedAngwantibo
+1, 4;DecentInconsequentialEasternnewt
+2, 1, 1+2;MammothCrispHypsilophodon
+2, 1, d+1+2;EsteemedKeyDromedary
+2, 3;ConcernedAdmirableIriomotecat
+3, 1;HarmoniousCarelessAnemoneshrimp
+3~4;IcyKindlyArcticduck
+1+2;CelebratedAdvancedBillygoat
+1+4, 2, 1;HighIcyHogget
+1+4, 2, 4;FrightenedFairArctichare
+1+4, 2, d+4;ImpeccableVagueKookaburra
+1+4, 3;ResponsibleWigglyGlassfrog
+2+3;ObedientBlindHamster
+3+4;BaggyLimpingCats
+uf+2;AnxiousCreepyHamadryad
+uf+3;ImportantMealyBluebreastedkookaburra
+uf+4;UnripeNippyIndianhare
+f+1;HomelyEnragedAmericankestrel
+f+1, 3;EnlightenedGrippingDiamondbackrattlesnake
+f+1, 3, 1;ColorlessSoreJaguarundi
+f+1, 4;PlainAnnualHarrier
+f+1, d+4;BonyAmusingAcornweevil
+f+2;UnhappyRaggedCicada
+f+3;MildMasculineDungenesscrab
+f+4;AccomplishedBonyBabirusa
+f, F+1;GraveChubbyAmethystsunbird
+f, F+2, 1;KaleidoscopicHeftyArgusfish
+f, F+2, 3;SpiffySameAdmiralbutterfly
+f, F+2, 1+2;AssuredBiodegradableCatbird
+f, F+3;HeavenlyUntidyBeauceron
+f, F+4;DisfiguredImmaculateCirriped
+f, f, f+3 (or ub, b, 3);JoyousPepperyElver
+df+1, 2;HospitableMixedAssassinbug
+df+1, 4;VibrantCorruptEstuarinecrocodile
+df+2;OpulentAlarmingKiwi
+df+3;SinfulComplexGoral
+d+2;BriefFluidCockroach
+d+1+2 (or FC+1+2);QuarterlySpottedDungbeetle
+d+3+4;FlakyBothFrenchbulldog
+db+1;AffectionateFewInexpectatumpleco
+db+1, 2;OnlyDiscreteIbisbill
+db+2;DamagedSomeGallowaycow
+db+3;YellowLeadingAmericantoad
+db+4, 4, 4;WatchfulFocusedAmmonite
+db+4, 4, 4, D;WatchfulFocusedAmmonite
+LCT 3;MistyCarefulAzurevase
+LCT 1+4;FastRevolvingIvorygull
+b+1;BrilliantLegalKingsnake
+[b+1];BrilliantLegalKingsnake
+b+2, 1;AthleticBigBrant
+b+2, 4;LawfulCleverCutworm
+b+2, 1+2;FirsthandCreepyBlesbok
+b+2, 1+2, 4;ThoughtfulAllHake
+b+3;EnviousKindheartedBird
+b+3, 2;RemorsefulShabbyAmericanshorthair
+b+3, 4;ThoseWeepyAngora
+b+4;BewitchedRawDore
+b+4, 2, 3;LikableDelectableGraysquirrel
+b+1+4, 3;VigorousCreepyGoldenmantledgroundsquirrel
+b+1+4, 4;SlightUnderstatedCoati
+FC+3+4, 3;UntriedDisloyalBug
+(FC+3+4), 3;UntriedDisloyalBug
+FC+df+2;ArtisticGoodAzurewingedmagpie
+FC+df+3;UnlinedFlamboyantIberianemeraldlizard
+SS+2;DopeyFlickeringCrustacean
+SS+4;BrownCompetentJackal
+WS+1, 4;PleasingWigglyFirecrest
+WS+2;AccomplishedOddballAfghanhound
+WS+3;WeeklyHideousKinkajou
+WS+1+2;GrouchyKeenCrownofthornsstarfish
+f+1+2;GlumFluffyGarpike
+ in rage df+1+2;SnappyWickedCanary
+in rage f, F+1+2;PettyGraciousGalapagosdove
+Approach enemy... 1+3;AdoredPleasingBat
+Approach enemy... 2+4;SnappyHonoredBarbet
+Approach enemy... f+1+3;EuphoricDifferentAzurewingedmagpie
+Approach enemy... f+2+4;SnappyHonoredBarbet
+Approach enemy... df+2+3;SlightDenseFlickertailsquirrel
+Approach enemy... db+1+2;DeepTidyEft
+Approach enemy... b+1+2;ArcticShockedHuia
+Approach from left side... 1+3 (or 2+4);FeminineMetallicChital
+Approach from right side... 1+3 (or 2+4);GiftedGraveBlackpanther
+Approach from behind... 1+3 (or 2+4);WavyCleverKillifish
+FC+df, d, df+1+2;MadeupElementaryGannet
+Time with enemy attack... b+1+3 (or b+2+4);DizzyHopefulGallowaycow
