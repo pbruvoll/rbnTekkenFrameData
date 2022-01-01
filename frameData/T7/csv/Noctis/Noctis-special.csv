@@ -15,7 +15,7 @@ in rage f+2+3;m;10,30;18;+2;throw;throw;rage drive
 2, 2, b+2;m, m, m(throw);9,9,5,(20);15 js;-11;throw;throw;
 3;h;15;14;-7;-1;-1;
 4;h;15;12;-8;+3;+3;
-4,2;h,m;15,15;12;-14;-1;-1;
+4, 2;h,m;15,15;12;-14;-1;-1;
 1+2;h,m;17,24;18;-14;KND;Tail Spin;Homing, Tail Spin
 1+2~B;h;17;18;-9;-3;-3;Homing
 f+2;m;8(,25);20 js;-9;throw;throw;

@@ -120,7 +120,7 @@ WS+1+2, * (three spins);m;28;39~40s;0~+1;AZUD;AZUD;Homing
 FC+d/f+1+2;ll;10,16;21~23, 31~33 cs1~;-11~-9;+5~+7s;+5~+7s;
 FC+d/f+1+2 , 1+2;ll, (DES);10,16;21~23, 31~33 cs1~;-11~-9;+5~+7s;+5~+7s;
 SS+4;l;15;24~25 (33~) cs6~;-12~-11;+2;+7~+8;
-SS+4 , 1+2;l, h x 3 (TJ), m (TJ);15,5*4;js15~;-10~-9;+8~+9;+8~+9;
+SS+4, 1+2;l, h x 3 (TJ), m (TJ);15,5*4;js15~;-10~-9;+8~+9;+8~+9;
 BT 4;m (TJ);20;16~17b;-3~-2;KND;KND;
 Opponent Down d/b+1+2;l(On grounded opponent);20;24~26;-14;KND;KND;
 Grounded face up 1+2;(Special) (TJ);;a;;;;

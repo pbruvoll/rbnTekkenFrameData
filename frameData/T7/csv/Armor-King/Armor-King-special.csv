@@ -2,10 +2,10 @@ Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;
 In rage b+3+4;m (throw);55;20;-22;throw;throw;Rage art
 In rage f, N, d, d/f+1+2;h!;0;20;+24g;+24g;+24g;Rage drive
 1;h;7;10;+1;+8;+8;
-1,2;h, h;7,10;;-1;+5;+5;
+1, 2;h, h;7,10;;-1;+5;+5;
 1, 2, 1;h, h, m;7, 10, 17;;-5;+1;+31g;
 2;l;10;10;+1;+7;+7;
-2,1;l, m;10, 15;;-1;+7;+7;
+2, 1;l, m;10, 15;;-1;+7;+7;
 3;h;25;17;-14;KND;KND;
 4;h;20;13;-5;+6;JG;
 1+2;m;10;17;-10;0;0;
