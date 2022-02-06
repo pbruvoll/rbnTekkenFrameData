@@ -5,7 +5,7 @@ Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;
 4;h;17;11;-8;+3;KND;
 f+1;h;7;10;+1;+8;+8;
 f+2;m;12;16~17;-8~-7;+3~+4;FS (+10~+11g) 23~24;
-f+3;m;10;21;-3;+9;+9;
+f+3;m;10;21;-3;+7;+7;
 f+4;h (TJ);15;18~19;-9~-8;CS;CS;
 d/f+1;m;12;14;0;+6;+36g(m);
 d/f+2;m;15;20;-9;+4;+4;
