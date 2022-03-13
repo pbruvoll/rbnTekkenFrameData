@@ -63,7 +63,7 @@ d/b+3, 3, 3;l (TC), l(TC), l(TC);8,7,7;20 cs6~;-19;-7;-7;
 d/b+3 x 4;l (TC) x 4;8,7,7,5;21 cs6~;-19;-7;-7;
 d/b+3 x 5;l (TC) x 5;8,7,7,5,5,;22 cs6~;-19;-7;-7;
 d/b+3 x 6;l (TC) x 6;8,7,7,5,5,5,;23 cs6~;-47;-35;-35;
-d/b+3, 3, …, 4;l (TC), l(TC), …., m;8,7,…,15;24 cs6~;-8;KND;KND;
+d/b+3, 3, ..., 4;l (TC), l(TC), ..., m;8,7,...,15;24 cs6~;-8;KND;KND;
 d/b+4;l;11;17;-12;0;+8s;
 d/b+1+2;m;25;27;-14;KND;KND;Wall bounce
 b+1;h;9;17;1;7;12;
@@ -76,7 +76,7 @@ d/b+3 (after b+1 (,1));l (TC);7;17;-20;-9;-9;
 d/b+3, 3 (after b+1  (,1));l (TC), l (TC);7,5;17;-19;-7;-7;
 d/b+3, 3, 3 (after b+1 (,1));l (TC), l(TC), l(TC);7,5,5;17;-47;-35;-35;
 d/b+3, 3, 4 (after b+1 (,1));l (TC), l(TC), m;7,5,15;17;-8;KND;KND;
-b+2;m;23;17 pc8~;-13;KND;KND;
+b+2;m;23;17 pc8~;-13;KND;KND;Power Crush
 b+3;m;10;21;-10;+1s;+1s;
 b+3, 4;m, m;10,23;21;-20;KND;KND;
 b+4;m (TJ) (BT);15;18 js17~;-8;6;6;
@@ -125,7 +125,7 @@ WS 1;m;11;13;-7;4;4;
 WS 1, 1;m, m;11,15;13;-8;+3s;KND;
 WS 2;m;14;14;-9;1;1;
 WS 2, 4;m, h;14,20;14;-9;+11k;KND;Tail spin
-WS 2, 4,F;m, l (SET);14,20;14;-9;+11k;KND;Tail spin
+WS 2, 4,F;m, h (SET);14,20;14;-9;+11k;KND;Tail spin
 WS 3;m;16;15 js9~;-13;Launch;Launch;
 WS 4;m;15;11;-6;5;5;
 FC d/f+2;m (TC);16;22;-13;2;+15g;
@@ -161,8 +161,8 @@ KAT 1;m;14;15;-5;6;12;
 KAT 2;m;21;22;-11;KND;KND;
 KAT 3;m;10;;-6;+2s;+2s;
 KAT 3, 2;m, m;10,15;18;-16;Launch;Launch;
-KAT 4;h (TC);16;22 js1~;-16;-2;-2;
-KAT 4, 2;h, l;16,23;22 js1~;-9;KND;Tail spin;Tail spin
+KAT 4;l (TJ);16;22 js1~;-16;-2;-2;
+KAT 4, 2;l, h;16,23;22 js1~;-9;KND;Tail spin;Tail spin
 KAT F;(SET);;;;;;
 KAT B;(BT);;;;;;
 KAT U;(special);;;;;;
