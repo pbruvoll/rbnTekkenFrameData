@@ -1,0 +1,80 @@
+template;https://gfycat.com/ifr/{url}
+1;MealyRedFlounder
+1, 1, 2;CheapClosedAnkole
+1, 2;ZealousIllegalGrebe
+1, 2, 1, 1;IncredibleSecondaryAtlanticbluetang
+1, 2, 3;BlushingAngryGalapagospenguin
+2;FixedFatBird
+3, 3;PalatableBonyChimpanzee
+4;TallUncomfortableIbisbill
+1+2;ZealousIllegalGrebe
+f+1;PlayfulNeglectedBluebottle
+f+2;DelayedRashFallowdeer
+f+2:1;CreativeCompetentDowitcher
+f+3;SnappyHandsomeIberianchiffchaff
+f+4;ComplicatedHiddenGlassfrog
+f+1+2;AmpleAridCero
+f, f, f+1 (or WR+1);FlakyEvilAmericanshorthair
+df+1, 1;DaringLimpingBarebirdbat
+df+1, 4;GlisteningOptimisticFugu
+df+2;HugeHeavyBittern
+df+3, 4;CaringUnnaturalAmurratsnake
+df+3, 4~2;DiligentElderlyBirdofparadise
+df+3, 4~3;BlindBareAvians
+d+1+2;ScornfulFlawlessHeterodontosaurus
+b+1, 2;RareFriendlyIntermediateegret
+(b+1), 2;RareFriendlyIntermediateegret
+b+2;FlakyTotalLabradorretriever
+b+3, 2;UnequaledUntriedElephant
+b+4, 4;CompleteActualGuppy
+FC+2;GrotesqueNecessaryCockatiel
+FC+3, 1;LittleImprobableCattle
+FC+4;AnchoredUncommonCheetah
+FC+df+1;ChubbyFondEmperorshrimp
+SS+3;LastRigidAmericanalligator
+WS+1;InfiniteUntimelyBobcat
+WS+2;DescriptiveOptimalKoi
+WS+2:f+2;OrnateBestAdmiralbutterfly
+WS+3;FlickeringEquatorialAmethystsunbird
+(During Jump) 1;NauticalEmotionalEyra
+(During Jump) 2;WelcomeAgitatedFirefly
+(During Jump) 3;SaneVictoriousFrenchbulldog
+(During Jump) 4;SelfreliantDarkDove
+f, N, d, df+1;DownrightPointlessKitten
+f, N, d, df+2;DownrightPointlessKitten
+f+1+2, qcb+1 (or 2);MistyShorttermAmmonite
+qcf+1;IllUnsungHammerheadshark
+qcf+2;WelloffFixedFoxterrier
+qcb+1;PitifulYoungIbisbill
+qcb+2;GentleOddElephant
+qcb+2, 1;GentleOddElephant
+qcb+2, 3;PleasedRemorsefulBunting
+qcb+2, 4;BlushingFickleButterfly
+(During Jump) qcb+1 (or 2);MisguidedEachAtlanticsharpnosepuffer
+f, N, d, df+1+2;VeneratedCheerfulArmadillo
+MAX f+1+2, qcb+1+2;ThisVioletAkitainu
+MAX qcf+1+2;UltimateFamousAnnelida
+MAX qcb+1+2, 1;WigglyMatureLark
+MAX qcb+1+2, 3;AnySleepyKouprey
+MAX qcb+1+2, 4;EmptyHauntingBarracuda
+MAX (During Jump) qcb+1 (or 2);RemorsefulScaredGentoopenguin
+1, 2, 1, 2;ScentedTartBlackmamba
+qcf, qcf+1+2;CriminalDopeyArchaeopteryx
+hcb+3;FakeClumsyAsianconstablebutterfly
+hcb+4;FakeClumsyAsianconstablebutterfly
+MAX hcb+3+4;OldPhonyLeafcutterant
+in rage hcb, f+3+4;HollowUnsightlyAlleycat
+in rage db+1+2;PlainFoolishAiredale
+Approach enemy... 1+3;ScalyComfortableDog
+Approach enemy... 2+4;EagerAgitatedDrongo
+Approach enemy... f+1+3;ScalyComfortableDog
+Approach enemy... f+2+4;EagerAgitatedDrongo
+Approach enemy... b+1+2;ComplexSelfassuredAfricanaugurbuzzard
+Approach from left side... 1+3 (or 2+4);ScalyComfortableDog
+Approach from right side... 1+3 (or 2+4);EagerAgitatedDrongo
+Approach from behind... 1+3 (or 2+4);ComplexSelfassuredAfricanaugurbuzzard
+While enemy is down... d+1+3 (or d+2+4);FlakyDamagedCorydorascatfish
+1+3+4;OldCompassionateAcornbarnacle
+Time with high enemy attack... hcb+1+3;CompletePitifulHarpyeagle
+Time with low enemy attack... hcb+1+4 (or 2+3);SaneSameAmethystgemclam
+Time with mid enemy attack... hcb+2+4;MindlessGracefulBedlingtonterrier

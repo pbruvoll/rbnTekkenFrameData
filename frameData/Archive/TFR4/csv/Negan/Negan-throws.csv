@@ -1,0 +1,8 @@
+Command;Hit level;Damage;Start up frame;Break;Break frame;Notes
+1+3;h;35;12;1 or 2;-3;
+2+3;h;35;12;1 or 2;-6;
+Left side throw;h;40;12;1;-3;
+Right side throw;h;40;12;2;-3;
+BT throw;h;50;12;none;;
+u/f+1+2;h;40;12;1+2;-6;
+INT 1+3 (parry);h;32;25;none;;
