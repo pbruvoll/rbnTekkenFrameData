@@ -33,7 +33,7 @@ TAI3;l;24;20~21;-12~-11;+9~+10;+9~+10;
 TAI4;m;14;13~14;-14;-3;CS;
 TAI4,1;m,h;14,20;13~14;-9~-8;+10g~+11g;+10g~+11g;Tail spin
 TAI1+2;m;15;26 (pc8~26);-12;Throw(0);Throw(0);Power crush
-TAI f+1+2;m;35;20~25;-24~-19;KND;KND;DOSUKOI CANNON
+TAI f+1+2;m;35;20~25;+3~+8/+5~+10;KND;KND;Wall crush
 TAI d/f+1+2;parry;0;??;-;+16 (?);-;Command low parry
 TAI db+1+2;!;40;50~59;KND;KND;KND;
 TAI d/b+1+2;l;20;22~30;-24~-16;KND;KND;
