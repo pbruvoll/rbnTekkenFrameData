@@ -62,7 +62,7 @@ b+3, F;m, (SEN);14;17;-5;+11;+11;
 b+3, 4;m, h;14,20;17;-8~-7;KND;KND;Tail spin
 b+4;m;23 (,28);15;-8;+8;Throw;
 b+4(CH in front);m, (throw);27,23;15;;;Throw(KND);
-b+1+2;mm?;8,20;21~22, 31~32;-11~-10;+6k;+6k;Homing, Tail spin
+b+1+2;mm;8,20;21~22, 31~32;-11~-10;+6k;Tail spin;Homing, Tail spin
 b+2+3;!;45;84~85;KND;KND;KND;
 u/b or u or u/f+3;m (TJ)(, m);12(,14);16~17s (,34) js12~;-26~-25 (13~6a);Launch;Launch;
 u/b+4;m (TJ);20;25~27 js9~;-9~-7;KND;KND;
@@ -71,7 +71,7 @@ f, F+2;m;20;21~22 (22~);-13~-12;Launch;Launch;
 f, F+2 When hit f;m, (SEN);20;21~22 (22~);;Launch;Launch;
 f, F+3;m;22;18~19 (19~);-8~-7;KND;KND;
 f, F+4;l;14;21(22~);-31;+5;+5;
-f, F+4, 3;l, m;14,20;21(22~);-16;+3;+3;
+f, F+4, 3;l, m;14,20;21(22~);-16;+8k (+17k wc);+8k (+17 wc; Wall crush
 f, F+1+2;m;20;16~17 (17~);-9~-8;KND;Tail spin;
 f, F+3+4;ll;11,15;19~20 ,29~30 (20~) cs21~;-16~-15;0~+1s;;
 f, b+2;m;10;14(14~);-12;0;0;
