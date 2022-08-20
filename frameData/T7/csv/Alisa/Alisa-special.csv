@@ -97,7 +97,7 @@ f, F+1+2;mm;5,18;17~18, 30~31 (18~);-16~-15;CS;CS;
 f, F+1+2 When hit 2;mm, m x 6, (DES);5,18,2*6;17~18, 30~31 (18~);;CS;CS;
 b, f+2;h;26;16~24 (16~) pc8~15;-8~0;KND;KND;Power crush
 b, B+1+4;h! (TJ);50;63~80 (64~);KND;KND;KND;
-f, f, f+2;h;30;13~15 (16~) js3~;+5~+7 (+16~+24g wc);KND;KND;
+f, f, f+2;h;30;13~15 (16~) js3~;+5~+7 (+16~+24g wc);KND;KND;Wall crush
 f, f, f+3;m (TJ);15;18~19 (21~) js3~;-4~-3;+6~+7;+6~+7;
 f, f, f+3, 4;m (TJ), m (TJ);15,20;js1~;-7~-5;KMED;KMED;Tail spin
 WR+1+2;m (TJ);24;18~36 js5~;-3~+15;KND;KND;
