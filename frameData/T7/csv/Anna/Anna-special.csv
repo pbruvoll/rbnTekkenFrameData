@@ -1,6 +1,6 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage b+1+2;h;55;13;-9;Throw(KND);Throw(KND);Rage art
-in rage qcf+2+3;m, m;17,20;15;+5s;JG;JG;Rage drive
+in rage qcf+2+3 or d/f+2+3;m, m;17,20;15;+5s;JG;JG;Rage drive
 1;h;7;10;+1;+8;+8;
 1, 2;h, h;7,10;10;-1;+5;+5;
 1, 2, 1;h, h, h;7,10,6;10;-3;+4;+4;
@@ -35,7 +35,7 @@ f+1+2 or WS+1+2;m;21;18;-18;KND;KND;
 f+2+3;m;30;14;-16;KND;KND;
 d/f+1;m;13;13~14;-1~0;+5~+6;+5~+6;
 d/f+1, 2;m, h;13,10;13;-3;+2;+9;
-d/f+1, 2, 3;m, h, m (TJ);13,10,20;13;-12;KND;KND;
+d/f+1, 2, 3;m, h, m (TJ);13,10,20;13;-13;Launch;Launch;
 d/f+1, 2, 3, b;m, h;13, 10;13;-17;-12;-5;
 d/f+1, 2, 4;m, h, h;13,10,22;13;-5;KND;KND;Tail spin
 d/f+2;m;13;15~16;-12~-11;JG;JG;
@@ -64,7 +64,7 @@ d/f+3, 3, 3;m, h, h;13,6,8;;-11;0;0;
 d/f+3, 3, 3, 1;m, h, h, h;13,6,8,14;;-9;15;15;
 d/f+3, 3, 3, 4;m, h, h, h;13,6,8,20;;-6;KND;KND;Tail spin
 d/f+3, 4;m, h;13,20;;-6;KND;KND;Tail spin
-d/f+4;l;17;16;-15;+5s;KND;
+d/f+4;l;19;16;-15;+5s;KND;
 d/f+1+2 or CJM d/f+1+2;m;0;16;1;5;19;
 d+1;sm;5;10 cs4;-5;6;6;
 d+1 or FC+1, 4;sm, m;5,10;;-11;0;0;
@@ -182,7 +182,7 @@ CJM u+4;m (TJ);20;15 js8;-15;-4;-4;
 CJM u/f+4;m (TJ);20;15 js8;-13;JG;JG;
 CJM f, F;(TC)(TJ) (TC) (Rol);;cs js8~35 cs;;;;
 CJM f, F+3;m (TC);27;30;-11;KND;KND;
-CJM f, F+4;h;21;40;7;JG;JG;
+CJM f, F+4;h;21;40;+12g (+14g wc);JG;JG; Wall crush
 qcf;(CD);;;;;;
 qcf+1;h;23;13;2;4;JG;
 qcf+2;m;17;16;-12;3;KND;
