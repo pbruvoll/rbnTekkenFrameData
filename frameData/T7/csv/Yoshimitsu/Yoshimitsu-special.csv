@@ -34,7 +34,7 @@ f+3, 3;h, l (TC);32,21;16;-20;KND;KND;
 f+3, 3, d+3+4;h, l (TC), (IND);32,21;16 Air;-35;KND;KND?;
 f+3, 4;h, m;32,27;16b;-6;Launch;Launch;
 f+4;m;33;18;-9;KND;KND;Wall bounce
-f+1+2;m;29;17?~18;-8?~-7;KND;KND;
+f+1+2;m;29;17?~18;-8?~-7;KND;Launch;
 f+3+4;m(, (Special))(FLE);27(35);21~25?;-14~-10?;KND;KND;Power crush
 f+3+4, b;(Special);; RBT;;;;Power crush
 d/f+1;m;14;13;-4;+5;+5;
@@ -193,7 +193,7 @@ KIN 4, 3+4;h, (MED);28;16 RBT(31~);-3;KND;CS;Homing, Tail spin
 KIN 1+2;mmmm (TJ);4,4,4,24;12,19, 27,41 RBT (27~);-6~-5;KND;KND;
 KIN f+1;l (TC);20;23;-13;+3;KND;
 KIN f+1, D;(cancel);;;;;;
-KIN f+2;h;33;12(27~);-13;KND;Tail spin;
+KIN f+2;h;33;12(27~);-1 (+11k wc);KND;Tail spin;Wall crush
 KIN b+2;m;15;12(27~);-9;+2;+2;
 KIN b+2,1;m;15,19;12(27~);-12;Launch;Launch;
 KIN b+1+2;!;30?;45?(?~);CS;CS;CS;
