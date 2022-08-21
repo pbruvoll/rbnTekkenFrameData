@@ -18,7 +18,7 @@ in rage f, F+1+2;m;30;21(22~);+11~+12g;Launch;Launch;Rage drive
 2, 3;h, m (TJ);9,20;js18~;-19~-18;KND;KND;
 3;m;17;14;-7;+9;+9;
 3, 1;m, m?;17,17;14;-11~-10;+8;CS;
-4;h;18;11;-7;+7;Launch (JG?);
+4;h;18;11;-7;+7;Launch;
 3~4;l (TC);22;26~28s (27~) cs6~;-26;KND;KND;Homing
 1+2;m;21;16~17;-9~-8;CS;CS;
 3+4;mm (TJ);10,21;23,30~32 js5~;-6~-4;KND;KND;
@@ -32,7 +32,7 @@ in rage f, F+1+2;m;30;21(22~);+11~+12g;Launch;Launch;Rage drive
 1+4, 3;lh, m;5,8,24;10~;-2~0;KND;KND;Tail spin
 1+4, 3, b (Cancel);lh;5,8;10~;-20(37s);-9;-9;
 2+3;h(Absorbs 1 h/m hit);21;23~24 (7~);0~+1;KND (CS on parry);KND;
-f+2;m;20;17~18;-18~-17;Launch (JG?);Launch (JG?);
+f+2;m;20;17~18;-18~-17;Launch;Launch;
 f+2, d/b or d or D/F (Cancel);(Special);;s;;;;
 f+3;m;24;14~16 (31~33);-2~0;KND;KND;Tail spin
 f+3, *, n (two spins);m;26;12~13 (52~53);+6~+7;KND;KND;Tail spin
@@ -42,12 +42,12 @@ f+1+2;h;26;15~16 pc8~14;-9;KND;KND;Power crush, Wall bounce
 d/f+1;m;10;13~14;-3~-2;+8~+9;+8~+9;
 d/f+1, 2;m, h(, (throw));10,13(,25);13~14;-1;Throw(KND);Throw(KND);
 d/f+1, 4;m, m;10,22;13~14;-12~-11;KND;CS;
-d/f+2;m;14;15~16;-6~-5;Launch (JG?)(+5a);Launch (JG?);
+d/f+2;m;14;15~16;-6~-5;Launch(+5a);Launch;
 d/f+3;m;23;20~21;-8~-7;KND;KND;
 d/f+4;m;16;12;-9;+2;+2;
 d+2;m;18;18;-4s;+9s;KND;
 d+1+2 or FC+d/b or d+1+2;l (TC);20;20 cs15~;-18;KND;KND;
-d+3+4;lh (TJ);5,20;14,24 js5~;-6(-25s);Launch (JG?);Launch (JG?);
+d+3+4;lh (TJ);5,20;14,24 js5~;-6(-25s);Launch;Launch;
 d/b+1;m (TC);13;14 cs6~13;-9;+7;+7;
 d/b+1, 2;m (TC), h;13,25;14;-9;KND;KND;Tail spin
 d/b+2;m;22;20~21 cs3~20;-11~-10;Launch;Launch;
@@ -60,7 +60,7 @@ b+2, 4;m, l(LCT);12,14;cs15~;-11~-9;0~+2;+3~+5;
 b+2, 1+2;m, h;12,7;15~;-9;+2;+1;
 b+2, 1+2, d (Cancel);m;12;15~s;-6s;-1s;-1s;
 b+2, 1+2, 4;m, h, m;12,7,20;15~;-13~-12;KND;KND;Tail spin
-b+3;m (TJ);15;16~17 js10~;-19~-18;Launch (JG?);Launch (JG?);
+b+3;m (TJ);15;16~17 js10~;-19~-18;Launch;Launch;
 b+3, 2;m, m?;15,20;16~17 10~;-20~-19;Launch (JG?);Launch (JG?);
 b+3, 2, (d/b, d or d/f) (Cancel);m, (Special)?;15;16~17 10~s;-33~-32;Launch (JG?);Launch (JG?);
 b+3, 4;m (TJ), l (TC)(LCT);15,14;cs1~;-11~-9;0~+2;+3~+5;
@@ -75,8 +75,8 @@ b+2+3; m(absorbs 1 h/m kick);23;24~25 (4~);-9;+6  (CS on parry);+6;
 u/f+2;h (throw);20(,25);14;-7;Throw(KND);Throw(KND);
 u/f+2 (No throw);h;20;14;-7;+;+;
 u/b or u or u/f+3;m (TJ);17;20~21 js11~;-3~-2;+8~+9;KND;
-u/b+4;m (TJ);25;20~21 js9~;-15~-14;Launch (JG?);Launch (JG?);
-u or u/f+4;m (TJ);25;20~21 js9~;-13~-12;Launch (JG?);Launch (JG?);
+u/b+4;m (TJ);25;20~21 js9~;-15~-14;Launch;Launch;
+u or u/f+4;m (TJ);25;20~21 js9~;-13~-12;Launch;Launch;
 f, F+1;m;30;23~24 (24~);+4~+5;KND;KND;
 f, F+2;m;16;15~16 (16~);-13~-12;-3~-2;-3~-2;
 f, F+2, 1;m, h;16,21;15~16 (16~);-5~-4;KND;KND;
