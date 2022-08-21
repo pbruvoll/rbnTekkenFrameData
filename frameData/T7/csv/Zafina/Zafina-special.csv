@@ -81,7 +81,7 @@ u+4;m (TJ);18;17 js9;-13;Launch;Launch;
 u/f+4;m (TJ);18;17 js9;-13;Launch;Launch;
 u/f, N, 4;m (TJ);25;25 js9;-9;KND;KND;
 U/F+4;m;25;25;-8;3;3;
-u/f+1+2;m (TJ) (TRT);20;21 js9;-7;6;CS;
+u/f+1+2;m (TJ) (TRT);20;21 js9;-7;+6k (+23k wc);CS;Wall Crush
 u/b, b;(Special);;50;;;;
 u/b, b+3+4;(MNT);;56;;;;
 f, F+2;h;28;15;1;KND;Launch;Homing, Tail spin
