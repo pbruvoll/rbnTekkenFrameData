@@ -28,7 +28,7 @@ f+3;h;30;21~23;-4~-2;KND;KND;Tail spin
 f+4;m;10;15~16;-12~-11;-1~0;-1~0;
 f+4, 3;m, m?;10,15;15~16a;-33~-32;Launch (JG?);Launch (JG?);
 f+4, 3, U;m, m?, (Special) (TJ)(FLY);10,15;15~16a;-14~-13;Launch (JG?);Launch (JG?);
-f+1+2;mm;12,25;17~18, 45~46;-12~-11;KND;KND;Wall bounce
+f+1+2;mm;12,25;17~18, 45~46;-15~-14;KND;KND;Wall bounce
 f+1+2, b;m;12;17~18;-18~-17;-8;-8;
 f+3+4;mm (TJ), ?;10,20;16~17, 31~32 js10~;-16~-15;KND;KND;
 d/f+1;m;11;13;-3;+8;+8;
@@ -67,7 +67,7 @@ u+4;m (TJ);22;20~21 js9~;-36~-35;Launch (JG?);Launch (JG?);
 u+4, U;m (TJ), (Special) (TJ)(FLY);22;20~21 js9~;-17~-16;Launch (JG?);Launch (JG?);
 u/b or u or u/f+2;h;25;20~23;-4~-1;KND;KND;Homing, Tail spin
 u/f+3;m (TJ);21;28~29 js9~;+3~+4s;+7~+8s;KND;
-u/f+4;m (TJ);21;18 js8~;-8;KND;KND;
+u/f+4;m (TJ);21;18 js8~;-8;+8 / +20~22w;+8 / +20~22w;Wall crush;
 u or u/f+1+2; (Sky)!;26;20~32;KND;KND;KND;
 u/b+2+4;m (TJ);25;56~59 js8~54;+16~+19g;KND;KND;
 u+2+4;m (TJ);30;56~59 js8~54;+16~+19g;KND;KND;
