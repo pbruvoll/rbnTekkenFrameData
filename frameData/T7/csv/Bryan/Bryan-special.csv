@@ -107,7 +107,7 @@ u+4;m (TJ);21;24~26 js9~;-5~-3;KND;KND;
 u/f+4;m (TJ);22;24~26 js9~;-5~-3;KND;KND;
 f, F+2;h;32;13(14~) pc6~12;-9;KND;KND;Power crush
 f, F+3;m;25;22~23 (23~);-13~-12;KND;KND;Tail spin
-f, F+3* (Very long hold);m;33;34~35 (35~);+8~+9;KND;KND;Tail spin
+f, F+3* (Long hold);m;33;34~35 (35~);+11~+12g (+13g wc);KND;KND;Tail spin, Wall crush
 f, F+4;h;32;16~19 (17~);-9~-6s;KND;KND;Homing, Tail spin
 f, b+2;h;20;14~15 (14~);-7~-6;Launch;Launch;
 b, d/f+4;l;25;29(29~);-13;+14g;KND;
