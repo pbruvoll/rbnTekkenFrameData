@@ -26,7 +26,7 @@ f+3, 1, 1+2;m, m, mm;14,8,6,20;16~18;-12~-11;+7~+8s;+7~+8s;
 f+4;h;23;19~20;+1~+2;KND;KND;Tail spin, Homing
 f+1+2;m;25;12~13;-16~-15;KND;KND;
 f+3+4;(Special);;s;;;;
-f+3+4, 3+4;(Special), mmm (TJ);8,8,14;20~21, 28~29, 37~40s (46~) js23~;-10~-7;KND;KND;
+f+3+4, 3+4;(Special), mmm (TJ);8,8,14;20~21, 28~29, 37~40s (46~) js23~;+7~+10 (+14~+17g wc);KND;KND;Wall crush
 f+3+4, 3+4 (second and third hit miss);(Special), m;8;20~21 (46~);-46;-35;-35;
 f+3+4, d+1+2;(Special), (AOP);;18~19 (44~);;;;
 d/f+1;m (TC)(RDS);13;14b cs6~13;-2;+9;+9;
