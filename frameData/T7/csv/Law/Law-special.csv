@@ -153,7 +153,7 @@ Grounded face up D+1+2+3+4;(Special);;14~15 (88~);;;;
 d+1+2 (to DSS);(DSS);;1~;;;;
 DSS 1;h;14;12~13 (13~);-11~-10;CS;CS;
 DSS 1, f+1;h, m;14,25;12~13 (13~);-14~-12;KND;KND;
-DSS 1, 4;h, h (TJ);14,30;js14~;+7g;KND;KND;
+DSS 1, 4;h, h (TJ);14,30;js14~;+7g (+10g wc);KND;KND;Wall crush
 DSS 2;h;20;14~15 (15~);-4~-3;KND;KND;
 DSS 3;h;30;19~21 (21~);-3~-1;KND;KND;Homing, Tail spin
 DSS 4;l;19;24~25 (25~);-13~-12;+6~+7s;KND;
@@ -163,7 +163,7 @@ DSS 2+4;h(Throw);35(8,9,18);12(13~);;Throw(KND);;
 DSS f+1;m;25;17~19 (18~);-14~-12;KND;KND;
 DSS f+2;h(DSS);10;12(13~);0;+6;+6;
 DSS f+3;m;30(45);20~23 (21~) pc8~19;-17~-14;KND;KND (KND);Power crush, wall bounce
-DSS f+4;h (TJ);40;20~28a (21~) js9~;+7g;KND;KND;
+DSS f+4;h (TJ);40;20~28a (21~) js9~;+7g (+10g wc);KND;KND; Wall crush
 DSS , ,;;;20~28 (21~) 9~;;;;
 b+1+2 (to TFS);hmh or m punch parry((Special))(TFS);;3~50;;+11;;
 TFS-success 1;h;12;29~30;;+6~+7b;+6~+7b;
