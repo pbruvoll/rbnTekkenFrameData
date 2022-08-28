@@ -96,7 +96,7 @@ WS+1+2;m;20;18~19;-10~-9;Launch (JG?);Launch (JG?);
 FC+d/f+1;l (TC);20;32~34s cs1~;-12~-10;KND;KND;
 FC+d/f+2;m;21;15~16;-14~-13;hKZD;hKZD;
 SS+2;h;25;19~21 (28~);-5~-3;KND;KND;Tail spin
-SS+3+4;h (TJ);50;27~31ad (36~) js11~;-1~+3;KND;KND;
+SS+3+4;h (TJ);50;27~31ad (36~) js11~;+11~+14g (+21~25g wc);KND;KND;Wall crush
 BT 3;m;18;13;-13;+9;CS;
 BT 1+2;h!;50;26~30;KND;KND;KND;
 BT d+4;l;20;22~24 s(d) cs1~5 js11~;-17~-15;KND;KND;
