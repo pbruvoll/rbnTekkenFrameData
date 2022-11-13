@@ -1,12 +1,13 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage b+1+2;m;55;20 pc8~17;-32;KND;KND;Rage art
-in rage b, d/b, d, d/f+1, 2;l (TC), m;20,35;20 8~17;-9(wl~3);KND;KND;Rage drive
+in rage b, d/b, d, d/f+1, 2;l (TC), m;20,35;24 8~17;-9(wl~3);KND;KND;Rage drive
+in rage b, d/b, d, d/f+1+2;l (TC), m;20,35;22 8~17;-9(wl~3);KND;KND;Rage drive
 1;h;11;13;-2;+6;+9;
 1, 1;h, m;14,25;13;-14~-13s;KND;KND;
 1, 2;h, h;14,24;13;-2;KND;KND;Tail spin
 2;h;10;11;+1;+9;+9;
 2, 1;h, m;10,12;11;-2;+3;+3;
-2, 1, 2;h, m, m;10,12,20;11s;-12~-11;Launch (JG?);Launch (JG?);
+2, 1, 2;h, m, m;10,12,20;11s;-12~-11;Launch;Launch;
 3;h;30;18;-13;KND;KND;
 4;h;20;16;-4;+7;Launch (JG?);
 f+4;h;23;17;-4;+7;Launch (JG?);
@@ -32,11 +33,11 @@ f+4~1, 2;m;30;15~16 (66~);+8~+9;KND;KND;
 f+1+2;m;22;15~16;-19~-18;KND;KND;Wall bounce
 f+3+4 or FC+d/f+3+4;m;28;21~26;-9~-4;KND;KND;
 d/f+1;m;12;14~15;-4~-3;+3~+4;+5~+6;
-d/f+1, 1;m, m;12,20;14~15;-10~-9;+9~+10kg;+9~+10kg;Tail spin
+d/f+1, 1;m, m;12,20;14~15;-10~-9;+9~+10kg;Tail spin;Tail spin
 d/f+1, 2;m, h;12,10;14~15;-12;-1a;-1a;
 d/f+1, 2, 1;m, h, h;12,10,3;14~15;-10;-2(KND);-2;
 d/f+1, 2, 1, 2;m, h, h, hh;12,10,3,3,20;14~15;-18~-17;KND;KND;
-d/f+2;m;13;15~16;-14~-13;Launch (JG?);Launch (JG?);
+d/f+2;m;13;15~16;-14~-13;Launch;Launch;
 d/f+2, 1;m, m;13,15;15~16s;-6~-5;+5~+6;+5~+6;
 d/f+2, 1, 2;m, m, m;13,15,12;15~16s;-8~-7;+3~+4;+3~+4;
 d/f+2, 1, 2, 1;m, m, m, h;13,15,12,23;15~16;-4~-3;KND;KND;Tail spin
@@ -70,7 +71,7 @@ d/b+1+2;hhhhh;5,3,3,3,20;20~23, 31~37, 40~43, 50~56, 61~62;-4~-3;CS;CS;
 b+1;m;17;20~21;-11~-10;+8~+9;+8~+9;
 b+1,2;m,m;17,17;20~21;-14s;KND;Launch;
 b+2;m;27;19;+5;KND;KND;
-b+2*;m;55;35;-7;KND;KND;
+b+2*;m;55;35;+3 (+5 wc);KND;KND;Wall crush
 b+3;m;14;16~17;-9~-8;+2~+3;+2~+3;
 b+3, 2;m, h;14,13;16~17;-4;+1;+1;
 b+3, 2, 2;m, h, h;14,13,20;16~17;-9;KND;KND;
@@ -94,7 +95,7 @@ f, F+1+2, 1+2;m, l (TC);20,21;s cs10~;-19~-18;KND;KND;
 f, F+3+4;m;25;21~30 (22~) js20~;-82~-73;KND;KND;
 f, F+3+4 (Second part);l (TC);25;31~40 (32~) js1~;-110~-101;KND;KND;
 b, d/b, d, d/f+1;l (TC);30;24~25s (25?~) cs6~;-37~-36;KND;KND;Homing
-b, d/b, d, d/f+2;m;32;22s(23?~);-11;KND;KND;Wall bounce
+b, d/b, d, d/f+2;m;32;22s(23?~);-9;KND;KND;Wall bounce
 HCF;(Special);;22(23?~);;;;
 HCF, 1 (one spin);m;30;17(43~);+21g;KND;KND;
 hcf+1 (two spins);!;35;17(68~);KND;KND;KND;
