@@ -170,7 +170,7 @@ HMS 2;m;23;19~20;-13~-12;Launch;Launch;
 HMS 3;h;21;17~19 pc8~16;-4~-2;KND;KND;Homing, Power crush, Tail spin
 HMS 3 Hit when close ;h, (throw);21(,20);17~19 8~16;;Throw(KND);;
 HMS 4;l (TC);30;24~26s cs6~;-26;KND;KND;
-HMS 1+2;mm;10,15;15,26~27;-7~-6;+6~+7;+6~+7;
+HMS 1+2;mm;10,15;15,26~27;-7~-6;+14~+15 (+26~+27 wc);+14~+15 (+26~+27 wc); Wall Crush
 HMS u/f+3;m (TJ);24;20~22 js9~;-9;KND;KND;Wall bounce
 HMS u/f+3, D;m (TJ);24;20~22s js9~;-9;KND;KND;
 HMS u/f+4;m (TJ);20;25~29 js16~;-8~-4s;KND;KND;
