@@ -1,6 +1,6 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 In rage b+1+2;m (throw);55;20;-22;throw;throw;Rage art
-In rage f+2+3;m (throw);35(,12);21;+7g;throw;throw;Rage drive
+In rage f+2+3;m (throw);25(,12);21;+7g;throw;throw;Rage drive
 In rage f+2+3 (far);sm;10;45;-10;+9s;+9s;Rage drive
 1;h;7;10;+1;+8;+8;
 1, 2;h, h;7, 12;;-1;+5;+5;
@@ -94,7 +94,7 @@ f, F+3, 2;m, m;18, 26;;-14;JG;JG;
 f, F+4;m;26;18;-8;KND;KND;Tail spin, Homing
 qcf+1;m;21;18;-10;JG;JG;
 qcf+1, 2;m, m;21, 24;;-7;KND;KND;
-qcf+1, 2*;m, m;21, 40;;+23g;KND;KND;
+qcf+1, 2*;m, m;21, 40;;+14g (+16g wc);KND;KND;Wall crush
 qcf+2;l (throw);20(,35);24;-12;+5;throw;
 b, f+1+2;m, m;14, 16;15;-12;+4;+4;
 b, f+1+2,2;m, m;14, 16, 25;15;-15;KND;CS;
