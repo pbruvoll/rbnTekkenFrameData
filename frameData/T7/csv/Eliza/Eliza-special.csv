@@ -72,8 +72,7 @@ MG 1, 4;h, m;11,20;10(25~);-11;KND;TS;Tail spin;
 MG 1, 2, 1+2;h, h, m;11,12,21;10(25~);-13~-12;KND;KND;
 MG 2;m (DS);25;14(29~);-9;KND;KND;
 MG 2, b;m;25;14(29~);-9;KND;KND;
-EX MG 2;m (DS);25;14(29~);-9;KND;KND;Wall bounce
-EX MG 2, b;m;25;14(29~);-9;KND;KND;Wall bounce
+EX MG 2;m (DS);25;14(29~);+7 (+21 wc);KND;KND;Wall bounce, Wall Crush
 MG 3;h;12;16~17 (31~);-10~-9;KND;KND;Homing
 MG 3, 3;h, m;12,24;16~17 (31~);-13;KND;KND;
 MG 3, 4;h, h (TJ);12,21;js5~;-7~-6;KND;KND;Tail spin

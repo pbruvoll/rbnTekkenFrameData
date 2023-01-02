@@ -116,8 +116,8 @@ SAV 3, F;m, (SAV);12;15(25~);-5;+1;+1;
 SAV 3, 3;m, h;12,17;15(25~);-9~-8;+3~+4;CS;
 SAV 3, 3, F;m, h, (SAV);12,17;15(25~);-9~-8;-2~-1;CS;
 SAV 4;h;27;15~17 (25~);0~+2;KND;KND, Tail spin;Homing, Tail spin
-SAV 1+2;m;20(,5);28~29 (38~) pc6~27;-21~-20;Launch;Launch;Power crush
-SAV 1+2*;m;23(,5);41~42 (51~) pc6~27;-12~-11;Launch;Launch;Power crush
+SAV 1+2;m;20(,5);28~29 (38~) pc6~27;-18~-17;Launch;Launch;Power crush
+SAV 1+2*;m;23(,5);41~42 (51~) pc6~27;+7~+8 (+11~+12 wc);Launch;Launch;Power crush, Wall crush
 SAV f+1+2;h;22;16~17 (26~);+5~+6s;+6~+7s;+6~+7s;
 SAV f+1+2, F;h, (SAV);22;16~17 (26~);+5~+6s;+6~+7s;+6~+7s;
 SAV d/f+1;m;15;14(24~);-2;+8;+8;
@@ -137,5 +137,5 @@ SAV b+1, 4;m, m;16,17; 15~;-10~-9;+8~+9;CS;
 SAV b+2;m(Absorbs 1 h/m hit);20;23(33~) (reversal 4~10);-9;KND;KND;
 SAV b+3;h;20;17~18 (27~) pc8~16;-7~-6;KND;KND;Power crush
 SAV b+3, F;h, (SAV);20;17~18 (27~) pc8~16;-7~-6;KND;KND;Power crush
-SAV u/f+3;m;25;15~16 (25~) js14~;-9~-8;KND;KND;
+SAV u/f+3;m;25;15~16 (25~) js14~;-9~-8;KND;CS;
 SAV , ,;;;(+10~);;;;
