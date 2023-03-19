@@ -1,6 +1,7 @@
 Command;Hit level;Damage;Start up frame;Block frame;Hit frame;Counter hit frame;Notes
 in rage 1+2;m;55;22 (32) pc8~17;-26;KND;KND;Rage art
-in rage d/b+4, 3+4;l, h;20,32;24 js19~;-9;KND;KND;Rage drive, Homing
+in rage d/b+4, 3+4;l, h;20,32;26 js19~;-9;KND;KND;Rage drive, Homing
+in rage DSS d/b+3+4, 3+4;l, h;20,32;22 js19~;-9;KND;KND;Rage drive, Homing
 1;h;7;10;+1;+8;+8;
 1, 1;h, h;7,5;10;-7;-8;-8;
 1, 1, 1;h, h, h;7,5,5;10;-7;-8;-8;
