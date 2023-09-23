@@ -133,7 +133,7 @@ b+3+4;(KNP);;15~16 (35~);;;;
 KNP f;(Special)(Parry)(KNP);;15~16 (35~);;;;
 KNP 1;l (TC);22;20~21s (35~) cs15~;-13~-12;+8~+9s;KND;
 KNP 2;h;20;14(29~);-9;KND;KND;
-KNP 3;m (TJ);17;22~23a (37~) js15~;-12~-11;Launch (JG?);Launch (JG?);
+KNP 3;m (TJ);17;22~23a (37~) js15~;-16~-15;Launch (JG?);Launch (JG?);
 KNP 4;m (TJ);30;31~34as (46~) js15~;-7~-4;KND;KND;
 KNP 4, 3+4;m (TJ), m;30,20;js38~;-3~-0;KND;KND;
 qcf;(Special);;s;;;;
