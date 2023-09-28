@@ -13,7 +13,7 @@ in rage d/b+1+2;m;24;20~21;+8~+9s;KND;KND;Rage art
 1+2;m;18;18~20b;-11~-9;-2~0;0~+2;
 1+2, 1;m, m;18,21;18~20;-13;KND;KND;Wall bounce
 1+2, 3;m, h;18,25;18~20;-3~-2;KND;KND;Tail spin
-1+2 1b;m;18;18~20;-18;-9~-7; Cancel
+1+2 1b;m;18;18~20;-18;-9~-7; Cancel;
 1+4;!;23;52~56ad;KND;KND;KND;
 BT 1+4;!;30;41~45ad;KND;KND;KND;
 f+2;m;12;15~16;-11~-10;+2~+3;+2~+3;
@@ -59,10 +59,11 @@ b+1;h;13;12;-8;+3;CS;
 b+1, 2;h, h;13,20;12;-13;+5;+5;
 b+1, 4;h, m;13,23;d js16~;-9~-7;KND;KND;
 b+2;h;12;14;-5;+1;+1;
-b+2, 1+2;h, h;12,22;14;+2~+3s;KND;KND;;b+2, 1;h, h;14,20;14;-9;KND;KND;Tailspin
+b+2, 1;h, h;14,20;14;-9;KND;KND;Tailspin
+b+2, 1+2;h, h;12,22;14;+2~+3s;KND;KND;
 b+2, 4;h, m;12,18;14;-9;Throw(KND);Throw(KND);
 b+3;h;23;16~18;-10;KND;KND;
-b+3 during hit from front 1+2;h;23,20;-10;Throw(KND);Throw(KND);
+b+3 during hit from front 1+2;h;23,20;-10;Throw(KND);Throw(KND);;
 b+4 (Close);h;25;17;+2;KND;KND;Wall bounce
 b+4;h;25;17;+2;KND;KND;Wall bounce
 u/b+1;h;21;20~23;-3~0;KND;KND;Homing

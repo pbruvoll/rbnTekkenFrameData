@@ -68,7 +68,7 @@ Grounded face up 1+2;(Special) (TC);;9(14~) 1~;;;;
 f+4;(MG);;9(14~) 1~;;;;Press down to recover crouching
 MG 1;h;11;10(25~);-4;+2;+2;
 MG 1, 2;h, h;11,12;10(25~);-8;+1;+1;
-MG 1, 4;h, m;11,20;10(25~);-11;KND;TS;Tail spin;
+MG 1, 4;h, m;11,20;10(25~);-11;KND;TS;Tail spin
 MG 1, 2, 1+2;h, h, m;11,12,21;10(25~);-13~-12;KND;KND;
 MG 2;m (DS);25;14(29~);-9;KND;KND;
 MG 2, b;m;25;14(29~);-9;KND;KND;

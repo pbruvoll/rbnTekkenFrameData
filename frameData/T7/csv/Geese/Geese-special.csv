@@ -67,7 +67,7 @@ f, f, f+1;m;26;15~16 (18~);-8~-7;KND;KND;
 WS+1;m;12;13~14;-8~-7;+3~+4;+3~+4;
 WS+1, 1+2;m, (MAX );12;13~14;-3~-2;+8~+9;+8~+9;
 WS+2;m;15;18;-14;-3;-3;
-WS+2 When hit F+2;m, (throw);15,10,10;--;Launch;Launch;
+WS+2 When hit F+2;m, (throw);15,10,10;--;;Launch;Launch;
 WS+3;h;14;15~16;-8~-7;Tail spin;Tail spin;Tail spin
 WS+4;m;18;11;-5;+6;+6;
 FC+d/f+1;m;17;15;-14;Launch (JG?);Launch (JG?);

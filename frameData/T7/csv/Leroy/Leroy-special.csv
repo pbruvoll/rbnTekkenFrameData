@@ -67,8 +67,8 @@ b+3;h;21;18;-6;KND;KND;Tail spin
 b+4;m (TJ);21;17 js9;-8;+5~+6;+5~+6;Tali spin, Homing
 b+1+2;m;17;12;-10;2;KND;
 u/b or u+1;m (TJ);12;18 js9;-12;-1;-1;
-u/f+1;h;17;16;-9;5;5;;
-u/b+2;m;20;20;-9;5;5;punch sabaki 4-12;
+u/f+1;h;17;16;-9;5;5;
+u/b+2;m;20;20;-9;5;5;punch sabaki 4-12
 u or u/f+2;m (TJ);25;24 js9;1;KND;KND;Wall Bounce
 u/b or u or u/f+3;m (TJ);21;20 js9;-8;KND;KND;
 u/b+4;m (TJ);16;21 js9;-3;1;1;

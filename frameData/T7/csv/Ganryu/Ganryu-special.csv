@@ -74,7 +74,7 @@ d+1+4* (Short hold);m;40;55;-25 OC;KND;KND;
 d+1+4* (Long hold);m;50;93;-25 OC;KND;KND;
 d+1+4* (Very long hold);!;67;90;KND;KND;KND;
 d/b+2;l (TC);16;29;-22;Launch;Launch;
-d/b+2, 3+4;(Special);;s;;;Ends in TAI
+d/b+2, 3+4;(Special);;s;;;;Ends in TAI
 b+1;h;18;20~21;-6~-4;+5~+7;+5~+7;Homing
 b+1, 1;h, h;18,15;20~21;-6~-5;0~+1;+6~+7OB;
 b+1, 1, 1;h, h, m;18,15,20;20~21;+2~+4 OC;KND;KND;

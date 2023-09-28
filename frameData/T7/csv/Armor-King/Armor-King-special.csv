@@ -51,7 +51,7 @@ d+1+4 or d+2+3, 1;h;13;11;+1;+8;Launch;
 d/b+2;m;10;14;-11;0;0;
 d/b+2, 3;m, m;10, 20;;-13;+21;+21;
 d/b+2, 4;m, h;10, 20;;-9;+13k;KND;Tail spin
-d/b+3;l (TC);23;23 cs8;-26;+5;KND(JG);Homing;
+d/b+3;l (TC);23;23 cs8;-26;+5;KND(JG);Homing
 d/b+4;l (TC, TJ);20;29 cs6 js16;-20;KND;KND;
 d/b+1+2;m;30;26;+5;KND;Launch;
 d/b+1+2, D;(special);;;;;;

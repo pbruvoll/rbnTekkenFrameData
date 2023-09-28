@@ -67,10 +67,8 @@ b+4;m;17;15~16;-13~-12;-4~-3;CS;
 b+4, 3;m, m;17,20;js1~27;-11~-10;+6~+7s;KND;
 b+4, 3, 1+2;m (TJ), m, (DES);17,15;1~27;-11~-10;+6~+7s;KND;
 b+4, 4;m, m;17,17;js1~27;-37;Launch;Launch;
-b+4, 4, 3+4/td>
-m, m, (SBT);17,17;15~16;-19;Launch;Launch;
-b+4, 4, f+3+4/td>
-m, m (DBT);17,17;15~16;-19;Launch;Launch;
+b+4, 4, 3+4;m, m, (SBT);17,17;15~16;-19;Launch;Launch;
+b+4, 4, f+3+4;m, m (DBT);17,17;15~16;-19;Launch;Launch;
 b+3+4;m (TJ);20;19~20 js6~;-17~-16;Launch;Launch;
 b+3+4, 3+4;m (TJ), m (TJ);20,35;js1~;+5~+10s;KND;KND;
 b+2+3;!;50;75;KND;KND;KND;

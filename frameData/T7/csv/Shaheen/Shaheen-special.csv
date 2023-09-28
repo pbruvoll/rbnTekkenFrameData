@@ -72,7 +72,7 @@ FC+d/f, d, D/F+3;l (SNK);21;16~20d (19~) cs1~15 ar7~;-23~-19;KND;KND;
 BT 2;m;15;14;-3;KND;KND;
 d/f, d/f or From special move (to SNK);(SNK);;14;;;;
 SNK 1;h(SNK);10;12(27~);-1;+5;+12;
-SNK 2;m;17;15~16 (30~);-9~-8;+8~+9 / +20w;KND;Wall crush;
+SNK 2;m;17;15~16 (30~);-9~-8;+8~+9 / +20w;KND;Wall crush
 SNK 3 (Close);m (TJ)(, (throw));13(,5,5);20a(35~) js14~;-12;Throw(Launch);Throw(Launch);
 SNK 3;m (TJ);13;20a(35~) js14~;-12;KND;KND;
 SNK 4;l;17;16;-15;0;KND;

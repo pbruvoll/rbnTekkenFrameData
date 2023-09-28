@@ -110,7 +110,7 @@ DEN 4, 3;l, m;14,20;21;-16;+3;+3;Same as f, F+4, 3
 DEN 1+2;h;20;12~13s (28~);-10~-9;KND;KND;Tail spin
 DEN 2+3;h(Throw);20,20;12(27~);;Throw(KND);;
 DEN 2+3 (Opponent in air);Air throw;23,8;12(27~);;Throw(KND);;
-DEN 3+4; 
+DEN 3+4; ;;;;;;
 u/b or u or u/f+3+4;(Special) (TJ);;lc,a;;;;
 u/b or u or u/f+3+4*;h(Throw);40(50);9(25) js1~;;Throw(KND);;
 u/f+3+4, 1;l;20;23~24s (53~) js1~10 cs20~;-13~-12;+3~+4s;KND;

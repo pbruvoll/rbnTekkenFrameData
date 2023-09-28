@@ -55,8 +55,8 @@ d+3, 2;l, m;15,20;16;-12s;0s;KND;
 d+1+2;m;30;30~31 pc8~29;-13~-12;KND;KND;Wall bounce, Power crush
 d+3+4;(Special);;pc6~;;;;Power crush
 d/b+2;l (TC);23;23~24 cs6~;-14~-13;+3~+4;KND;
-d/b+3;l (TC);16;21s cs6~;-20;-4;-4;;
-d/b+3, 2;l, h (TC);16, 20;21s cs6~;-9;Tail spin
+d/b+3;l (TC);16;21s cs6~;-20;-4;-4;
+d/b+3, 2;l, h (TC);16, 20;21s cs6~;-9;Tail spin;Tail spin;
 d/b+4;l (TC);8;14s cs4~;-13;-2;+3;
 d/b+1+2;m;35;29~32;-8~-5;KND;KND;
 b+1;m;20;20~22;-15~-13;Launch;Launch;
