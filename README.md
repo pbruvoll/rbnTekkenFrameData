@@ -9,8 +9,8 @@ This data was originally a translation of a japanese site called inatekken. Afte
 This includes manually testing, comments from the community at rbnorway.org, the official patch notes for each season, in game frame data and also using the site geppoppotmus.info as a cross reference. 
 
 ## Usage of data
-You are allowed to use this data  how you like, but we do appriciate a credit or a referene to RBNorway.org where the data is used.
+You are allowed to use this data how you like, but we do appriciate a credit or a referene to RBNorway.org where the data is used.
 
 ## The source of truth
-To make editing and contribution more accessible to people not familiar with github, the "master" data is not store in google docs. Change in google docs can be synced to this repository.
+To make editing and contribution more accessible to people not familiar with github, the "master" data is now stored in google docs. Changes in google docs can be synced to this repository.
 The url to the google sheet is https://docs.google.com/spreadsheets/d/1p-QCqB_Tb1GNX0KaicHr0tZwKa1taK5XeNvMr1N3D64
